@@ -1,0 +1,168 @@
+name: Run price scraper (every 6 hours EST + manual with logging)
+
+# Schedule: runs every 6 hours. GitHub cron is always UTC and does NOT observe
+# DST, so times are expressed in UTC anchored to EST (UTC-5), matching the old
+# convention (06:00 EST == 11:00 UTC):
+#   00:00 EST -> 05:00 UTC
+#   06:00 EST -> 11:00 UTC
+#   12:00 EST -> 17:00 UTC
+#   18:00 EST -> 23:00 UTC
+# (During EDT/summer these land one hour later in local wall-clock time.)
+on:
+  schedule:
+    - cron: '30 10,22 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    env:
+      # Use IANA timezone for New York; this affects date/time inside the job steps.
+      TZ: America/New_York
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # BestBuy comes from Apify (plain HTTPS, no extra package). Amazon,
+          # Samsung, Lowes and Walmart use Playwright; Amazon and the Lowes
+          # price fallback parse HTML with BeautifulSoup + lxml.
+          pip install playwright openpyxl beautifulsoup4 lxml
+
+      - name: Install Playwright Chromium (with deps) + Xvfb
+        run: |
+          # Amazon and Samsung use Playwright's headless Chromium.
+          python -m playwright install --with-deps chromium
+          # Lowes and Walmart block headless browsers, so they run in a VISIBLE
+          # real Google Chrome; Xvfb provides the virtual display for it.
+          sudo apt-get update
+          sudo apt-get install -y xvfb
+
+      - name: Check Google Chrome (needed for Lowes / Walmart)
+        run: |
+          # ubuntu-latest ships google-chrome-stable; fail early and clearly if not.
+          google-chrome-stable --version || google-chrome --version
+
+      - name: Ensure output directory exists
+        run: |
+          mkdir -p outputs
+
+      - name: Run scraper and capture logs
+        id: run-scraper
+        env:
+          # Apify API tokens for the BestBuy actor, comma separated.
+          # Used in order: when one account's credit runs out the next is used.
+          # Set it in Settings -> Secrets and variables -> Actions.
+          APIFY_API_TOKENS: ${{ secrets.APIFY_API_TOKENS }}
+        run: |
+          set -o pipefail
+
+          # xvfb-run gives the visible Chrome used for Lowes / Walmart a virtual
+          # display (-a picks a free display number).
+          xvfb-run -a python script.py 2>&1 | tee run.log
+          rc=${PIPESTATUS[0]}
+          echo "$rc" > run_exit_code.txt
+
+          if [ "$rc" -ne 0 ]; then
+            echo "❌ Script exited with code $rc"
+          else
+            echo "✅ Script finished successfully (exit code 0)"
+          fi
+
+          # return the same exit code so the job step reflects success/failure
+          exit $rc
+
+      - name: Commit and push results (only on success)
+        if: success()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Add only the outputs folder and any json files (cookies etc.)
+          git add outputs || true
+          git add *.json || true
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "chore: update scraped results (automated run: $(date +'%Y-%m-%d %H:%M:%S %Z'))" || true
+            # Push back to the same branch that triggered the workflow
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "No changes to commit."
+          fi
+      - name: Send price report email (only on success)
+        if: success()
+        env:
+          # Configure these as repository secrets (Settings -> Secrets -> Actions).
+          # MAIL_USERNAME / MAIL_PASSWORD = the Microsoft mailbox login + password
+          # (use an app password if the account has MFA enabled).
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_TO:       ${{ secrets.MAIL_TO }}
+          MAIL_FROM:     ${{ secrets.MAIL_FROM }}
+          # Microsoft defaults (smtp.office365.com:587) are baked into send_mail.py;
+          # override here only if you use a different Microsoft SMTP endpoint.
+        run: |
+          python send_mail.py
+      - name: Collect debug info & show tail of run log
+        if: always()
+        run: |
+          echo "---- run exit code ----"
+          if [ -f run_exit_code.txt ]; then cat run_exit_code.txt; else echo "no exit code file"; fi
+
+          echo "---- last 200 lines of run.log (if exists) ----"
+          if [ -f run.log ]; then tail -n 200 run.log || true; else echo "run.log not found"; fi
+
+          echo "---- outputs dir listing (if exists) ----"
+          if [ -d outputs ]; then ls -la outputs || true; else echo "outputs dir not found"; fi
+
+          echo "---- json files listing (if any) ----"
+          ls -la *.json || echo "no json files found"
+
+          echo "---- potentially updated files ----"
+          if [ -f outputs/results_lowes_walmart.xlsx ]; then echo "outputs/results_lowes_walmart.xlsx -> exists"; else echo "outputs/results_lowes_walmart.xlsx -> not found"; fi
+          for f in *.json; do
+            if [ -f "$f" ]; then echo "$f -> exists"; else break; fi
+          done
+
+          echo "---- git status (for debugging) ----"
+          git status --porcelain || true
+
+      - name: Upload run log artifact (always)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-log
+          path: run.log
+
+      - name: Upload outputs + json artifacts (always)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-outputs
+          path: |
+            outputs/**
+            *.json
