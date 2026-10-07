@@ -1188,11 +1188,29 @@ def extract_sku_from_url(url: str):
     return None
 
 
+def _iter_ld_sku_items(html):
+    """JSON-LD entries that can carry a Samsung sku + offer, for both page types:
+      - top-level entries (refrigerator pages: one Product with sku + offers)
+      - the variants inside a ProductGroup's hasVariant list (TV pages: the
+        group itself has no sku/offers; each size is a variant with its own
+        sku + offers, e.g. UN43M70HAFXZA -> 279.99).
+    Callers still match on the exact sku, so a sibling variant is never used.
+    """
+    for it in iter_ldjson(html):
+        if not isinstance(it, dict):
+            continue
+        yield it
+        for v in it.get("hasVariant") or []:
+            if isinstance(v, dict):
+                yield v
+
+
 def extract_price(filename, expected_url=None):
     """Return (price_text_or_None, redirected_bool) for a saved Samsung page.
 
     Updated for the current UI: the old #device_info aria-checked radios are gone.
-    The reliable source is the JSON-LD Product offer, keyed to the exact SKU, so
+    The reliable source is the JSON-LD Product offer (refrigerator pages) or the
+    matching ProductGroup variant's offer (TV pages), keyed to the exact SKU, so
     we never pick up a sibling variant's price. Redirects are detected via the
     page's canonical link.
     """
@@ -1216,37 +1234,18 @@ def extract_price(filename, expected_url=None):
             return None, True
 
     # -------- PRICE from JSON-LD offer keyed to the SKU --------
-    # Recorded even when the offer is OutOfStock (Samsung still lists a price).
+    # (top-level Product on refrigerator pages, ProductGroup variant on TV pages)
     price = None
-    for off in _samsung_sku_offers(html, expected_sku):
-        if off.get("price"):
-            price = str(off["price"]); break
+    for it in _iter_ld_sku_items(html):
+        if isinstance(it, dict) and it.get("sku"):
+            if expected_sku and str(it["sku"]).lower() != expected_sku:
+                continue
+            off = it.get("offers")
+            if isinstance(off, dict) and off.get("price"):
+                price = str(off["price"]); break
 
     print("🔎 Extracted Price:", price)
     return price, False
-
-
-def _samsung_sku_offers(html, expected_sku=None):
-    """Yield the JSON-LD offer dicts whose product sku matches expected_sku
-    (any sku when expected_sku is None).
-
-    The sku/offers pair is either a top-level Product (phones, appliances) or a
-    variant nested in a ProductGroup's "hasVariant" list (TV pages), so both
-    are checked.
-    """
-    for it in iter_ldjson(html):
-        if not isinstance(it, dict):
-            continue
-        variants = it.get("hasVariant")
-        candidates = [it] + (variants if isinstance(variants, list) else [])
-        for c in candidates:
-            if not isinstance(c, dict) or not c.get("sku"):
-                continue
-            if expected_sku and str(c["sku"]).lower() != expected_sku:
-                continue
-            off = c.get("offers")
-            if isinstance(off, dict):
-                yield off
 
 
 def _samsung_offer_unavailable(html, expected_url):
@@ -1259,9 +1258,11 @@ def _samsung_offer_unavailable(html, expected_url):
     e.g. "{capacity} in {color} is out of stock" -> it is always True.
     """
     sku = (extract_sku_from_url(expected_url) or "").lower()
-    for off in _samsung_sku_offers(html, sku):
-        avail = str(off.get("availability", "")).lower()
-        return any(k in avail for k in ("outofstock", "soldout", "discontinued"))
+    for it in _iter_ld_sku_items(html):
+        if isinstance(it, dict) and it.get("sku") and str(it["sku"]).lower() == sku:
+            off = it.get("offers")
+            avail = str(off.get("availability", "")).lower() if isinstance(off, dict) else ""
+            return any(k in avail for k in ("outofstock", "soldout", "discontinued"))
     return False
 
 async def save_samsung_htmls(
@@ -1353,8 +1354,7 @@ async def save_samsung_htmls(
                             f.write(html)
                         print(f"✅ HTML saved to {output_file}")
 
-                        # Parse saved HTML (updated: redirect-aware, JSON-LD by SKU;
-                        # a price is recorded even if the offer is out of stock)
+                        # Parse saved HTML (updated: redirect-aware, JSON-LD by SKU)
                         price, redirected = extract_price(output_file, expected_url=url)
                         if redirected:
                             print("[REDIRECT] Samsung redirect -> not available")
