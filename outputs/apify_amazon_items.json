@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#101,555 in Electronics #39 in OLED TVs",
+    "best_sellers_rank": "#124,191 in Electronics #49 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [
@@ -71,7 +71,7 @@
     "delivery_date": "",
     "fastest_delivery_date": "",
     "ships_from": "",
-    "seller_name": "Sylvox Official",
+    "seller_name": "",
     "seller_page_url": "",
     "returns": "",
     "other_sellers": {},
@@ -271,7 +271,7 @@
         "body": "Great tv"
       }
     ],
-    "scrape_time": "2026-10-07 01:23"
+    "scrape_time": "2026-10-07 09:46"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -298,7 +298,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#157,876 in Electronics #208 in QLED TVs",
+    "best_sellers_rank": "#170,581 in Electronics #224 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -419,6 +419,6 @@
         "body": "Great picture quality, remote is a bit cheap but the solar is nice. I wish something held the legs on for the TV a little bit better"
       }
     ],
-    "scrape_time": "2026-10-07 01:23"
+    "scrape_time": "2026-10-07 09:46"
   }
 }
