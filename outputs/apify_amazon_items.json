@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#142,734 in Electronics #82 in OLED TVs",
+    "best_sellers_rank": "#122,516 in Electronics #68 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [
@@ -271,7 +271,7 @@
         "body": "Great tv"
       }
     ],
-    "scrape_time": "2026-10-09 10:28"
+    "scrape_time": "2026-10-10 01:10"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -298,7 +298,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#185,788 in Electronics #257 in QLED TVs",
+    "best_sellers_rank": "#179,168 in Electronics #249 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -323,6 +323,14 @@
       "https://m.media-amazon.com/images/I/71JTn3LTWOL._AC_SL1500_.jpg"
     ],
     "videos": [
+      {
+        "title": "Samsung Q7F Series TV Product Review",
+        "duration_seconds": 30,
+        "url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bdf82c5f-fdf9-4666-9a38-969de5434b9a/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61FxsH7apSL.SX522_.jpg",
+        "creator": "",
+        "creator_type": "Seller"
+      },
       {
         "title": "My honest opinion about this Samsung TV.",
         "duration_seconds": 58,
@@ -361,6 +369,8 @@
       "Control Method": "Remote",
       "Remote Control Technology": "SolarCell Remote",
       "Software Update Supported to Date": "unknown",
+      "Color": "Black",
+      "Warranty Type": "Limited",
       "Brand": "Samsung",
       "Built-In Media": "Power Cable, Remote Control, Remote Control Battery, Stand, User Manual",
       "Model Name": "QN43Q7FAAFXZA",
@@ -379,6 +389,7 @@
       "Audio Input": "HDMI",
       "Signal Format": "HDMI",
       "Total Number of HDMI Ports": "3",
+      "Hardware Interface": "Bluetooth, Ethernet, HDMI, USB",
       "Wireless Technology": "Bluetooth, Wi-Fi",
       "Bluetooth Version": "5.3",
       "Connector Type": "HDMI, RF",
@@ -386,8 +397,6 @@
       "Content Sharing Direction": "Mobile to TV",
       "Mounting Type": "Wall Mount",
       "VESA Mount Standard": "200 x 200 mm",
-      "Color": "Black",
-      "Warranty Type": "Limited",
       "Special Feature": "Browser, Built-In Speaker, Flat, Game Mode, Wide Viewing Angle",
       "Included Components": "Power Cable, Remote Control, Remote Control Battery, Stand, User Manual",
       "Product Dimensions": "7.5\"D x 38.1\"W x 25\"H"
@@ -419,6 +428,6 @@
         "body": "Great picture quality, remote is a bit cheap but the solar is nice. I wish something held the legs on for the TV a little bit better"
       }
     ],
-    "scrape_time": "2026-10-09 10:27"
+    "scrape_time": "2026-10-10 01:09"
   }
 }
