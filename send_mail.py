@@ -34,6 +34,7 @@
 # Preview mode (no email sent): `python send_mail.py --preview [out.html]`
 # writes the rendered mail to an .html file and a matching .eml file.
 # =========================================================================
+import html
 import os
 import ssl
 import sys
@@ -87,23 +88,40 @@ def _as_float(value):
         return None
 
 
-_NOT_FETCHED = ('<span style="font-size:11px;font-weight:400;'
-                'font-style:italic;color:#9e9e9e;">data not fetched</span>')
+def _note(text):
+    """Small grey italic text shown in a cell instead of a price / SKU."""
+    return ('<span style="font-size:11px;font-weight:400;'
+            f'font-style:italic;color:#9e9e9e;">{html.escape(text)}</span>')
+
+
+def _reason_text(s):
+    """Plain-English text for a non-price cell.
+
+    The scraper writes a short reason in the cell when there is no price
+    ("Out of stock", "Network issue", ...); it is shown as-is. Rows written
+    before that change only hold "not available" or a blank cell."""
+    if s.lower() == NOT_AVAILABLE:
+        return "Not available"
+    return s
 
 
 def _fmt_price(value):
     f = _as_float(value)
-    if f is None:
-        return _NOT_FETCHED
-    return f"${f:,.2f}"
+    if f is not None:
+        return f"${f:,.2f}"
+    s = "" if value is None else str(value).strip()
+    if s == "":
+        return _note("No data")
+    return _note(_reason_text(s))
 
 
 def _fmt_sku(value):
-    if value is None:
-        return _NOT_FETCHED
-    s = str(value).strip()
-    if s == "" or s.lower() == NOT_AVAILABLE:
-        return _NOT_FETCHED
+    s = "" if value is None else str(value).strip()
+    if s == "":
+        return _note("No data")
+    # a SKU never contains a space; a reason ("Network issue", ...) always does
+    if s.lower() == NOT_AVAILABLE or " " in s:
+        return _note(_reason_text(s))
     return s.upper()
 
 
