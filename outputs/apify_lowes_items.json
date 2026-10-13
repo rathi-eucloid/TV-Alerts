@@ -305,7 +305,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-10-12T20:00:48.408Z",
+    "scrapedAt": "2026-10-13T03:11:48.153Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -682,7 +682,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-10-12T20:00:44.285Z",
+    "scrapedAt": "2026-10-13T03:11:45.202Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -1059,7 +1059,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-10-12T20:00:53.192Z",
+    "scrapedAt": "2026-10-13T03:11:49.879Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1431,7 +1431,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-10-12T20:00:44.508Z",
+    "scrapedAt": "2026-10-13T03:11:45.474Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1738,7 +1738,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-10-12T20:00:45.092Z",
+    "scrapedAt": "2026-10-13T03:11:45.878Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {

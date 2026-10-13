@@ -24,10 +24,11 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#129,373 in Electronics #70 in OLED TVs",
+    "best_sellers_rank": "#130,020 in Electronics #71 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [
+      "Size: 77 inches",
       "Style: 2 Year"
     ],
     "variants": [
@@ -39,6 +40,13 @@
         ]
       },
       {
+        "asin": "B0F6QH52QY",
+        "attributes": [
+          "65 inches",
+          "3 Year"
+        ]
+      },
+      {
         "asin": "B0F6QLH41D",
         "attributes": [
           "77 inches",
@@ -46,10 +54,31 @@
         ]
       },
       {
+        "asin": "B0F6Q5B6XB",
+        "attributes": [
+          "65 inches",
+          "2 Year"
+        ]
+      },
+      {
+        "asin": "B0F6QXV3T8",
+        "attributes": [
+          "65 inches",
+          "6 Year"
+        ]
+      },
+      {
         "asin": "B0F6QN59WR",
         "attributes": [
           "77 inches",
           "3 Year"
+        ]
+      },
+      {
+        "asin": "B0F6QPTNH8",
+        "attributes": [
+          "65 inches",
+          "5 Year"
         ]
       },
       {
@@ -71,7 +100,7 @@
     "delivery_date": "",
     "fastest_delivery_date": "",
     "ships_from": "",
-    "seller_name": "",
+    "seller_name": "Amazon.com",
     "seller_page_url": "",
     "returns": "",
     "other_sellers": {},
@@ -181,97 +210,8 @@
         "sentiment": "positive"
       }
     ],
-    "top_reviews": [
-      {
-        "reviewer": "Amazon Customer",
-        "rating": 5,
-        "title": "Perfect size TV.",
-        "date": "September 6, 2026",
-        "country": "United States",
-        "variant": "",
-        "verified_purchase": true,
-        "helpful_votes": 0,
-        "body": "Absolutely love this TV. Its thin and clean lines. Great picture clarity. My son did the setup and didnt take long at all."
-      },
-      {
-        "reviewer": "Neenah",
-        "rating": 5,
-        "title": "Samsung 65 inch tv",
-        "date": "August 1, 2026",
-        "country": "United States",
-        "variant": "",
-        "verified_purchase": true,
-        "helpful_votes": 0,
-        "body": "Love this new Samsung tv. Fit perfectly above fireplace. Clear picture, nice sound. easy to use."
-      },
-      {
-        "reviewer": "Desi Baker",
-        "rating": 5,
-        "title": "Probably the best investment in for your entertainment this year.",
-        "date": "May 9, 2026",
-        "country": "United States",
-        "variant": "",
-        "verified_purchase": true,
-        "helpful_votes": 3,
-        "body": "I had a 5 year old 65\" Samsung. I am beyond amazed at the improvements in the visual and software in the new TV. There is absolutely nothing in the QN65 not to be impressed by. Replaced my 55\" 2 days after the 65\". I may put one in our conference room for displays."
-      },
-      {
-        "reviewer": "Amazon Customer",
-        "rating": 5,
-        "title": "Great TV",
-        "date": "July 20, 2026",
-        "country": "United States",
-        "variant": "",
-        "verified_purchase": true,
-        "helpful_votes": 1,
-        "body": "Great TV."
-      },
-      {
-        "reviewer": "Abbysmom",
-        "rating": 5,
-        "title": "Very beautiful and clear picture",
-        "date": "September 12, 2026",
-        "country": "United States",
-        "variant": "",
-        "verified_purchase": true,
-        "helpful_votes": 0,
-        "body": "This TV has amazing color. I wanted a tv that would show everything in a dark room. Our previous tv was so dark that we could hardly see shows like Silo which are dark. This makes people look 3d and the dark colors are true and very clear. I don't game but I believe it would be great."
-      },
-      {
-        "reviewer": "Amazon Customer",
-        "rating": 5,
-        "title": "T v",
-        "date": "July 5, 2026",
-        "country": "United States",
-        "variant": "",
-        "verified_purchase": true,
-        "helpful_votes": 2,
-        "body": "Just right."
-      },
-      {
-        "reviewer": "MK",
-        "rating": 5,
-        "title": "Great picture",
-        "date": "May 6, 2026",
-        "country": "United States",
-        "variant": "",
-        "verified_purchase": true,
-        "helpful_votes": 2,
-        "body": "Upgrade from 2019 qled. Great picture upgrade! Good service and value."
-      },
-      {
-        "reviewer": "Placeholder",
-        "rating": 5,
-        "title": "Tv",
-        "date": "March 29, 2026",
-        "country": "United States",
-        "variant": "",
-        "verified_purchase": true,
-        "helpful_votes": 0,
-        "body": "Great tv"
-      }
-    ],
-    "scrape_time": "2026-10-13 03:58"
+    "top_reviews": [],
+    "scrape_time": "2026-10-13 11:09"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -298,7 +238,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#190,705 in Electronics #257 in QLED TVs",
+    "best_sellers_rank": "#191,295 in Electronics #257 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -307,7 +247,7 @@
     "delivery_date": "",
     "fastest_delivery_date": "",
     "ships_from": "",
-    "seller_name": "",
+    "seller_name": "Amazon.com",
     "seller_page_url": "",
     "returns": "",
     "other_sellers": {},
@@ -415,19 +355,7 @@
     "manufacturer_description": "",
     "customer_review_summary": "",
     "customer_review_aspects": [],
-    "top_reviews": [
-      {
-        "reviewer": "Amazon Customer",
-        "rating": 5,
-        "title": "Nice",
-        "date": "August 2, 2026",
-        "country": "United States",
-        "variant": "",
-        "verified_purchase": true,
-        "helpful_votes": 1,
-        "body": "Great picture quality, remote is a bit cheap but the solar is nice. I wish something held the legs on for the TV a little bit better"
-      }
-    ],
-    "scrape_time": "2026-10-13 03:58"
+    "top_reviews": [],
+    "scrape_time": "2026-10-13 11:08"
   }
 }
