@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#131,808 in Electronics #64 in OLED TVs",
+    "best_sellers_rank": "#132,564 in Electronics #64 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [
@@ -50,13 +50,6 @@
         "asin": "B0F6QLH41D",
         "attributes": [
           "77 inches",
-          "2 Year"
-        ]
-      },
-      {
-        "asin": "B0F6Q5B6XB",
-        "attributes": [
-          "65 inches",
           "2 Year"
         ]
       },
@@ -217,7 +210,7 @@
         "title": "Perfect size TV.",
         "date": "September 6, 2026",
         "country": "United States",
-        "variant": "Size: 65 inches Style: 2 Year",
+        "variant": "",
         "verified_purchase": true,
         "helpful_votes": 0,
         "body": "Absolutely love this TV. Its thin and clean lines. Great picture clarity. My son did the setup and didnt take long at all."
@@ -228,7 +221,7 @@
         "title": "Samsung 65 inch tv",
         "date": "August 1, 2026",
         "country": "United States",
-        "variant": "Size: 65 inches Style: 2 Year",
+        "variant": "",
         "verified_purchase": true,
         "helpful_votes": 0,
         "body": "Love this new Samsung tv. Fit perfectly above fireplace. Clear picture, nice sound. easy to use."
@@ -239,7 +232,7 @@
         "title": "Probably the best investment in for your entertainment this year.",
         "date": "May 9, 2026",
         "country": "United States",
-        "variant": "Size: 65 inches Style: 2 Year",
+        "variant": "",
         "verified_purchase": true,
         "helpful_votes": 3,
         "body": "I had a 5 year old 65\" Samsung. I am beyond amazed at the improvements in the visual and software in the new TV. There is absolutely nothing in the QN65 not to be impressed by. Replaced my 55\" 2 days after the 65\". I may put one in our conference room for displays."
@@ -250,7 +243,7 @@
         "title": "Great TV",
         "date": "July 20, 2026",
         "country": "United States",
-        "variant": "Size: 65 inches Style: 2 Year",
+        "variant": "",
         "verified_purchase": true,
         "helpful_votes": 1,
         "body": "Great TV."
@@ -261,7 +254,7 @@
         "title": "Very beautiful and clear picture",
         "date": "September 12, 2026",
         "country": "United States",
-        "variant": "Size: 65 inches Style: 2 Year",
+        "variant": "",
         "verified_purchase": true,
         "helpful_votes": 0,
         "body": "This TV has amazing color. I wanted a tv that would show everything in a dark room. Our previous tv was so dark that we could hardly see shows like Silo which are dark. This makes people look 3d and the dark colors are true and very clear. I don't game but I believe it would be great."
@@ -272,7 +265,7 @@
         "title": "T v",
         "date": "July 5, 2026",
         "country": "United States",
-        "variant": "Size: 65 inches Style: 2 Year",
+        "variant": "",
         "verified_purchase": true,
         "helpful_votes": 2,
         "body": "Just right."
@@ -283,7 +276,7 @@
         "title": "Great picture",
         "date": "May 6, 2026",
         "country": "United States",
-        "variant": "Size: 65 inches Style: 2 Year",
+        "variant": "",
         "verified_purchase": true,
         "helpful_votes": 2,
         "body": "Upgrade from 2019 qled. Great picture upgrade! Good service and value."
@@ -300,7 +293,7 @@
         "body": "Great tv"
       }
     ],
-    "scrape_time": "2026-10-14 01:45"
+    "scrape_time": "2026-10-14 09:21"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -327,7 +320,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#192,682 in Electronics #260 in QLED TVs",
+    "best_sellers_rank": "#193,352 in Electronics #260 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -457,6 +450,6 @@
         "body": "Great picture quality, remote is a bit cheap but the solar is nice. I wish something held the legs on for the TV a little bit better"
       }
     ],
-    "scrape_time": "2026-10-14 01:45"
+    "scrape_time": "2026-10-14 09:21"
   }
 }

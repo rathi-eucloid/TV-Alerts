@@ -21,14 +21,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 675,
+    "reviewCount": 677,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
         "quantity": 3,
         "onHandQuantity": 3,
-        "leadTimeDays": 10,
+        "leadTimeDays": 11,
         "storeNumber": "149"
       },
       {
@@ -305,7 +305,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-10-13T17:48:17.790Z",
+    "scrapedAt": "2026-10-14T01:24:01.033Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -407,7 +407,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1311,
+    "reviewCount": 1313,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -682,7 +682,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-10-13T17:48:06.608Z",
+    "scrapedAt": "2026-10-14T01:23:54.845Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -784,7 +784,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1311,
+    "reviewCount": 1313,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1059,7 +1059,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-10-13T17:48:02.851Z",
+    "scrapedAt": "2026-10-14T01:23:47.877Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1161,7 +1161,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 3806,
+    "reviewCount": 3809,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1431,7 +1431,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-10-13T17:48:03.229Z",
+    "scrapedAt": "2026-10-14T01:23:48.269Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1460,14 +1460,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 474,
+    "reviewCount": 475,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
         "quantity": 9,
         "onHandQuantity": 9,
-        "leadTimeDays": 5,
+        "leadTimeDays": 8,
         "storeNumber": "149"
       },
       {
@@ -1738,7 +1738,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-10-13T17:48:03.608Z",
+    "scrapedAt": "2026-10-14T01:23:48.525Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
