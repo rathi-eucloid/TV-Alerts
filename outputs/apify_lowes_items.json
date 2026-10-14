@@ -21,14 +21,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 677,
+    "reviewCount": 688,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
         "quantity": 3,
         "onHandQuantity": 3,
-        "leadTimeDays": 11,
+        "leadTimeDays": 10,
         "storeNumber": "149"
       },
       {
@@ -305,7 +305,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-10-14T01:24:01.033Z",
+    "scrapedAt": "2026-10-14T15:26:05.028Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -407,7 +407,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1313,
+    "reviewCount": 1319,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -682,7 +682,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-10-14T01:23:54.845Z",
+    "scrapedAt": "2026-10-14T15:26:35.446Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -784,7 +784,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1313,
+    "reviewCount": 1319,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1059,7 +1059,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-10-14T01:23:47.877Z",
+    "scrapedAt": "2026-10-14T15:26:23.067Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1161,7 +1161,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 3809,
+    "reviewCount": 3841,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1431,7 +1431,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-10-14T01:23:48.269Z",
+    "scrapedAt": "2026-10-14T15:26:05.533Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1443,7 +1443,7 @@
     "itemNumber": "7213433",
     "modelNumber": "QN65LS03FAFXZA",
     "brand": "Samsung",
-    "title": "LS03FA 65-in 2160p (4K) Smart QLED Indoor Flat screen HDTV",
+    "title": "The Frame - LS03FA 65-in 2160p (4K) Smart QLED Indoor Flat screen HDTV",
     "url": "https://www.lowes.com/pd/Samsung-Samsung-65in-Class-The-Frame-LS03FA-QLED-4K-Art-Mode-Vision-AI-Smart-TV-2025/5016711233",
     "price": 1099.99,
     "priceMax": null,
@@ -1460,14 +1460,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 475,
+    "reviewCount": 477,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
         "quantity": 9,
         "onHandQuantity": 9,
-        "leadTimeDays": 8,
+        "leadTimeDays": 7,
         "storeNumber": "149"
       },
       {
@@ -1738,7 +1738,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-10-14T01:23:48.525Z",
+    "scrapedAt": "2026-10-14T15:26:05.964Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
