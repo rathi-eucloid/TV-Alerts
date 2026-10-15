@@ -24,11 +24,10 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#117,131 in Electronics #53 in OLED TVs",
+    "best_sellers_rank": "#135,498 in Electronics #63 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [
-      "Size: 77 inches",
       "Style: 2 Year"
     ],
     "variants": [
@@ -40,24 +39,10 @@
         ]
       },
       {
-        "asin": "B0F6QH52QY",
-        "attributes": [
-          "65 inches",
-          "3 Year"
-        ]
-      },
-      {
         "asin": "B0F6QLH41D",
         "attributes": [
           "77 inches",
           "2 Year"
-        ]
-      },
-      {
-        "asin": "B0F6QXV3T8",
-        "attributes": [
-          "65 inches",
-          "6 Year"
         ]
       },
       {
@@ -68,10 +53,10 @@
         ]
       },
       {
-        "asin": "B0F6QPTNH8",
+        "asin": "B0F6QZ8Q68",
         "attributes": [
-          "65 inches",
-          "5 Year"
+          "77 inches",
+          "6 Year"
         ]
       },
       {
@@ -80,22 +65,15 @@
           "77 inches",
           "4 Year"
         ]
-      },
-      {
-        "asin": "B0F6QZ8Q68",
-        "attributes": [
-          "77 inches",
-          "6 Year"
-        ]
       }
     ],
-    "availability": "",
-    "delivery_date": "",
+    "availability": "In Stock",
+    "delivery_date": "as soon as Thursday, October 22, 7 AM - 7 PM",
     "fastest_delivery_date": "",
-    "ships_from": "",
-    "seller_name": "Amazon.com",
-    "seller_page_url": "",
-    "returns": "",
+    "ships_from": "Walts TV",
+    "seller_name": "Walts TV",
+    "seller_page_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K7RN1DSQCI9O&asin=B0F6QLH41D&ref_=dp_merchant_link",
+    "returns": "30-day refund/replacement",
     "other_sellers": {},
     "images": [
       "https://m.media-amazon.com/images/I/71VKuCbSn0L._AC_SL1500_.jpg",
@@ -293,7 +271,7 @@
         "body": "Great tv"
       }
     ],
-    "scrape_time": "2026-10-14 23:24"
+    "scrape_time": "2026-10-15 08:46"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -320,7 +298,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#187,968 in Electronics #260 in QLED TVs",
+    "best_sellers_rank": "#197,652 in Electronics #264 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -329,7 +307,7 @@
     "delivery_date": "",
     "fastest_delivery_date": "",
     "ships_from": "",
-    "seller_name": "",
+    "seller_name": "Amazon.com",
     "seller_page_url": "",
     "returns": "",
     "other_sellers": {},
@@ -450,6 +428,6 @@
         "body": "Great picture quality, remote is a bit cheap but the solar is nice. I wish something held the legs on for the TV a little bit better"
       }
     ],
-    "scrape_time": "2026-10-14 23:23"
+    "scrape_time": "2026-10-15 08:45"
   }
 }
