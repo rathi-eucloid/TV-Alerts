@@ -21,14 +21,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 688,
+    "reviewCount": 690,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
         "quantity": 3,
         "onHandQuantity": 3,
-        "leadTimeDays": 11,
+        "leadTimeDays": 10,
         "storeNumber": "149"
       },
       {
@@ -305,7 +305,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-10-15T00:48:42.684Z",
+    "scrapedAt": "2026-10-15T15:19:57.915Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -682,7 +682,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-10-15T00:48:47.480Z",
+    "scrapedAt": "2026-10-15T15:20:05.374Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -1059,7 +1059,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-10-15T00:48:45.830Z",
+    "scrapedAt": "2026-10-15T15:20:11.743Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1161,7 +1161,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 3841,
+    "reviewCount": 3842,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1431,7 +1431,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-10-15T00:48:43.043Z",
+    "scrapedAt": "2026-10-15T15:19:58.626Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1465,9 +1465,9 @@
       {
         "method": "Parcel",
         "available": true,
-        "quantity": 9,
-        "onHandQuantity": 9,
-        "leadTimeDays": 7,
+        "quantity": 7,
+        "onHandQuantity": 7,
+        "leadTimeDays": 6,
         "storeNumber": "149"
       },
       {
@@ -1738,7 +1738,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-10-15T00:48:43.423Z",
+    "scrapedAt": "2026-10-15T15:19:59.542Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
