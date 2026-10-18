@@ -21,7 +21,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 690,
+    "reviewCount": 693,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -305,7 +305,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-10-17T13:56:34.762Z",
+    "scrapedAt": "2026-10-18T00:16:06.224Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -407,7 +407,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1319,
+    "reviewCount": 1326,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -682,7 +682,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-10-17T13:56:32.566Z",
+    "scrapedAt": "2026-10-18T00:16:08.717Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -784,7 +784,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1319,
+    "reviewCount": 1326,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1059,7 +1059,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-10-17T13:56:37.059Z",
+    "scrapedAt": "2026-10-18T00:16:12.421Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1161,7 +1161,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 3842,
+    "reviewCount": 3848,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1431,7 +1431,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-10-17T13:56:32.930Z",
+    "scrapedAt": "2026-10-18T00:16:06.636Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1460,14 +1460,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 477,
+    "reviewCount": 479,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
-        "quantity": 7,
-        "onHandQuantity": 7,
-        "leadTimeDays": 5,
+        "quantity": 5,
+        "onHandQuantity": 5,
+        "leadTimeDays": 6,
         "storeNumber": "149"
       },
       {
@@ -1738,7 +1738,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-10-17T13:56:33.432Z",
+    "scrapedAt": "2026-10-18T00:16:07.010Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
