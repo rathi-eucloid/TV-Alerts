@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#125,548 in Electronics #55 in OLED TVs",
+    "best_sellers_rank": "#110,656 in Electronics #49 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [
@@ -67,8 +67,8 @@
         ]
       }
     ],
-    "availability": "Only 20 left in stock - order soon.",
-    "delivery_date": "as soon as Monday, October 26, 7 AM - 7 PM",
+    "availability": "Only 13 left in stock - order soon.",
+    "delivery_date": "as soon as Tuesday, October 27, 7 AM - 7 PM",
     "fastest_delivery_date": "",
     "ships_from": "Walts TV",
     "seller_name": "Walts TV",
@@ -271,7 +271,7 @@
         "body": "Great tv"
       }
     ],
-    "scrape_time": "2026-10-19 08:24"
+    "scrape_time": "2026-10-20 01:08"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -298,7 +298,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#209,554 in Electronics #277 in QLED TVs",
+    "best_sellers_rank": "#203,727 in Electronics #271 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -428,6 +428,6 @@
         "body": "Great picture quality, remote is a bit cheap but the solar is nice. I wish something held the legs on for the TV a little bit better"
       }
     ],
-    "scrape_time": "2026-10-19 08:24"
+    "scrape_time": "2026-10-20 01:07"
   }
 }
