@@ -12,8 +12,8 @@
 #   * each product is a group of columns with a merged product title on top
 #   * per product we ONLY show:
 #       SKU | Samsung Price | Amazon Price | vs Amazon | BestBuy Price | vs BestBuy
-#           | Lowes Price | vs Lowes | Walmart Price | vs Walmart
-#       - Samsung price column first, then Amazon, BestBuy, Lowes, Walmart
+#           | Lowes Price | vs Lowes   (Walmart is read but not shown in the mail)
+#       - Samsung price column first, then Amazon, BestBuy, Lowes
 #       - Amazon, BestBuy, Lowes & Walmart SKU columns are dropped
 #       - only ONE sku column (Samsung's), header simply reads "SKU"
 #       - the "vs" columns are shown as percentages (e.g. +3.5% / -13.5%),
@@ -280,9 +280,9 @@ def build_table_html(groups, rows):
             f'margin:0 0 4px 0;">'
         )
 
-        # ---- product title (spans all 11 columns) ---------------------------
+        # ---- product title (spans all 9 columns) ----------------------------
         parts.append("<tr>")
-        parts.append(_th(g["label"], bg=TITLE_BG, colspan=11, size="14px",
+        parts.append(_th(g["label"], bg=TITLE_BG, colspan=9, size="14px",
                          align="left"))
         parts.append("</tr>")
 
@@ -297,8 +297,6 @@ def build_table_html(groups, rows):
         parts.append(_th("vs BestBuy", bg=SUBHEAD_BG))
         parts.append(_th("Lowes Price", bg=SUBHEAD_BG))
         parts.append(_th("vs Lowes", bg=SUBHEAD_BG))
-        parts.append(_th("Walmart Price", bg=SUBHEAD_BG))
-        parts.append(_th("vs Walmart", bg=SUBHEAD_BG))
         parts.append("</tr>")
 
         # ---- data rows (one per timestamp), grouped by date -----------------
@@ -312,7 +310,7 @@ def build_table_html(groups, rows):
             cur_date = row["_ts"].date()
             if prev_date is not None and cur_date != prev_date:
                 parts.append(
-                    f'<tr><td colspan="11" style="padding:0;'
+                    f'<tr><td colspan="9" style="padding:0;'
                     f'border:none;border-top:3px solid {SEP};'
                     f'line-height:0;font-size:0;">&nbsp;</td></tr>'
                 )
@@ -355,14 +353,6 @@ def build_table_html(groups, rows):
                 f'<td style="{TD_BASE}background:{row_bg};text-align:right;'
                 f'font-weight:700;color:{cell["vs_lo_colour"]};">{cell["vs_lo"]}</td>'
             )
-            parts.append(
-                f'<td style="{TD_BASE}background:{row_bg};text-align:right;">'
-                f'{cell["walmart"]}</td>'
-            )
-            parts.append(
-                f'<td style="{TD_BASE}background:{row_bg};text-align:right;'
-                f'font-weight:700;color:{cell["vs_wm_colour"]};">{cell["vs_wm"]}</td>'
-            )
             parts.append("</tr>")
 
         parts.append("</table>")
@@ -395,7 +385,7 @@ def build_email_html(groups, rows, cutoff):
                font-family:Segoe UI,Arial,sans-serif;color:#222;">
     <p style="font-size:15px;margin:0 0 6px 0;">Hello,</p>
     <p style="font-size:15px;margin:0 0 16px 0;">
-      Please find below the latest Samsung vs Amazon vs BestBuy vs Lowes vs Walmart price comparison report.
+      Please find below the latest Samsung vs Amazon vs BestBuy vs Lowes price comparison report.
     </p>
     <p style="font-size:12px;color:#666;margin:0 0 18px 0;">{note}</p>
     <div style="overflow-x:auto;">
@@ -439,7 +429,7 @@ def send_email(html_body):
     msg["Message-ID"] = make_msgid()
 
     msg.set_content(
-        "Hello,\n\nPlease find below the Samsung vs Amazon vs BestBuy vs Lowes vs Walmart price comparison "
+        "Hello,\n\nPlease find below the Samsung vs Amazon vs BestBuy vs Lowes price comparison "
         "report. This message is best viewed in an HTML-capable email client.\n\n"
         "Best regards,\nPrice Tracking Automation"
     )
@@ -465,7 +455,7 @@ def save_preview(html_body, out_path):
     msg = EmailMessage()
     msg["Subject"] = os.environ.get(
         "MAIL_SUBJECT",
-        f"Samsung vs Amazon vs BestBuy vs Lowes vs Walmart Price Report — {datetime.now():%d %b %Y}",
+        f"Samsung vs Amazon vs BestBuy vs Lowes Price Report — {datetime.now():%d %b %Y}",
     )
     msg["From"] = os.environ.get("MAIL_FROM", os.environ.get("MAIL_USERNAME", "sender@example.com"))
     msg["To"] = os.environ.get("MAIL_TO", "recipient@example.com")
