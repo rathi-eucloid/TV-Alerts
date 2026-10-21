@@ -21,14 +21,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 699,
+    "reviewCount": 700,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
         "quantity": 3,
         "onHandQuantity": 3,
-        "leadTimeDays": 11,
+        "leadTimeDays": 10,
         "storeNumber": "149"
       },
       {
@@ -305,7 +305,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-10-21T00:51:33.293Z",
+    "scrapedAt": "2026-10-21T15:34:15.658Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -682,7 +682,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-10-21T00:51:32.452Z",
+    "scrapedAt": "2026-10-21T15:34:22.329Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -1059,7 +1059,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-10-21T00:51:29.822Z",
+    "scrapedAt": "2026-10-21T15:34:18.233Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1161,7 +1161,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 3885,
+    "reviewCount": 3887,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1431,7 +1431,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-10-21T00:51:29.983Z",
+    "scrapedAt": "2026-10-21T15:34:15.914Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1460,14 +1460,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 484,
+    "reviewCount": 483,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
         "quantity": 5,
         "onHandQuantity": 5,
-        "leadTimeDays": 8,
+        "leadTimeDays": 7,
         "storeNumber": "149"
       },
       {
@@ -1738,7 +1738,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-10-21T00:51:30.248Z",
+    "scrapedAt": "2026-10-21T15:34:22.229Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
