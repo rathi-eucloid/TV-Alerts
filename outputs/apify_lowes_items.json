@@ -28,7 +28,7 @@
         "available": true,
         "quantity": 3,
         "onHandQuantity": 3,
-        "leadTimeDays": 10,
+        "leadTimeDays": 11,
         "storeNumber": "149"
       },
       {
@@ -305,7 +305,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-10-21T15:34:15.658Z",
+    "scrapedAt": "2026-10-22T00:54:01.950Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -682,7 +682,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-10-21T15:34:22.329Z",
+    "scrapedAt": "2026-10-22T00:54:02.931Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -1059,7 +1059,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-10-21T15:34:18.233Z",
+    "scrapedAt": "2026-10-22T00:54:02.998Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1431,7 +1431,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-10-21T15:34:15.914Z",
+    "scrapedAt": "2026-10-22T00:54:02.194Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1738,7 +1738,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-10-21T15:34:22.229Z",
+    "scrapedAt": "2026-10-22T00:54:02.902Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
