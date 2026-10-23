@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#50,050 in Electronics #24 in OLED TVs",
+    "best_sellers_rank": "#51,095 in Electronics #24 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -233,7 +233,7 @@
         "body": "Great tv"
       }
     ],
-    "scrape_time": "2026-10-23 08:59"
+    "scrape_time": "2026-10-23 23:23"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -260,7 +260,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#220,967 in Electronics #280 in QLED TVs",
+    "best_sellers_rank": "#216,582 in Electronics #271 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -269,7 +269,7 @@
     "delivery_date": "",
     "fastest_delivery_date": "",
     "ships_from": "",
-    "seller_name": "",
+    "seller_name": "Amazon.com",
     "seller_page_url": "",
     "returns": "",
     "other_sellers": {},
@@ -390,6 +390,6 @@
         "body": "Great picture quality, remote is a bit cheap but the solar is nice. I wish something held the legs on for the TV a little bit better"
       }
     ],
-    "scrape_time": "2026-10-23 08:59"
+    "scrape_time": "2026-10-23 23:23"
   }
 }
