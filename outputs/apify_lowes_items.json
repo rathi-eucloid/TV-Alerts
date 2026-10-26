@@ -21,7 +21,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 720,
+    "reviewCount": 733,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -305,7 +305,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-10-25T14:33:39.722Z",
+    "scrapedAt": "2026-10-26T00:38:55.739Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -407,7 +407,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1352,
+    "reviewCount": 1354,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -682,7 +682,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-10-25T14:33:39.838Z",
+    "scrapedAt": "2026-10-26T00:38:54.915Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -784,7 +784,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1352,
+    "reviewCount": 1354,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1059,7 +1059,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-10-25T14:33:41.005Z",
+    "scrapedAt": "2026-10-26T00:38:54.950Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1161,7 +1161,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 3909,
+    "reviewCount": 3915,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1431,7 +1431,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-10-25T14:33:40.600Z",
+    "scrapedAt": "2026-10-26T00:38:57.156Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1736,7 +1736,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-10-25T14:33:41.105Z",
+    "scrapedAt": "2026-10-26T00:38:57.769Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
