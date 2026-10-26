@@ -12,7 +12,7 @@
     "listPrice": 349.99,
     "savingsAmount": 100,
     "savingsPercent": 28,
-    "promotionEndsAt": "2026-10-25T23:59:59.000Z",
+    "promotionEndsAt": "2026-11-01T23:59:59.000Z",
     "priceScope": "SOS",
     "isDealOfTheDay": false,
     "promotions": [
@@ -21,14 +21,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 733,
+    "reviewCount": 734,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
         "quantity": 3,
         "onHandQuantity": 3,
-        "leadTimeDays": 11,
+        "leadTimeDays": 10,
         "storeNumber": "149"
       },
       {
@@ -305,7 +305,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-10-26T00:38:55.739Z",
+    "scrapedAt": "2026-10-26T16:57:33.780Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -400,14 +400,14 @@
     "listPrice": 2499.99,
     "savingsAmount": 1000,
     "savingsPercent": 40,
-    "promotionEndsAt": "2026-10-25T23:59:59.000Z",
+    "promotionEndsAt": "2026-11-01T23:59:59.000Z",
     "priceScope": "SOS",
     "isDealOfTheDay": false,
     "promotions": [],
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1354,
+    "reviewCount": 1356,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -682,7 +682,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-10-26T00:38:54.915Z",
+    "scrapedAt": "2026-10-26T16:57:33.765Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -784,7 +784,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1354,
+    "reviewCount": 1356,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1059,7 +1059,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-10-26T00:38:54.950Z",
+    "scrapedAt": "2026-10-26T16:57:33.472Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1161,7 +1161,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 3915,
+    "reviewCount": 3916,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1431,7 +1431,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-10-26T00:38:57.156Z",
+    "scrapedAt": "2026-10-26T16:57:34.669Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1451,7 +1451,7 @@
     "listPrice": 1699.99,
     "savingsAmount": 600,
     "savingsPercent": 35,
-    "promotionEndsAt": "2026-10-25T23:59:59.000Z",
+    "promotionEndsAt": "2026-11-01T23:59:59.000Z",
     "priceScope": "SOS",
     "isDealOfTheDay": false,
     "promotions": [],
@@ -1736,7 +1736,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-10-26T00:38:57.769Z",
+    "scrapedAt": "2026-10-26T16:57:35.946Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
