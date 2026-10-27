@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#101,320 in Electronics #42 in OLED TVs",
+    "best_sellers_rank": "#120,248 in Electronics #52 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -33,7 +33,7 @@
     "delivery_date": "",
     "fastest_delivery_date": "",
     "ships_from": "",
-    "seller_name": "Walts TV",
+    "seller_name": "",
     "seller_page_url": "",
     "returns": "",
     "other_sellers": {},
@@ -144,7 +144,7 @@
       }
     ],
     "top_reviews": [],
-    "scrape_time": "2026-10-27 00:55"
+    "scrape_time": "2026-10-27 09:37"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -171,7 +171,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#223,874 in Electronics #269 in QLED TVs",
+    "best_sellers_rank": "#229,905 in Electronics #272 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -289,6 +289,6 @@
     "customer_review_summary": "",
     "customer_review_aspects": [],
     "top_reviews": [],
-    "scrape_time": "2026-10-27 00:55"
+    "scrape_time": "2026-10-27 09:37"
   }
 }
