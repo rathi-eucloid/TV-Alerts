@@ -21,14 +21,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 734,
+    "reviewCount": 735,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
-        "quantity": 2,
-        "onHandQuantity": 2,
-        "leadTimeDays": 11,
+        "quantity": 3,
+        "onHandQuantity": 3,
+        "leadTimeDays": 10,
         "storeNumber": "149"
       },
       {
@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-10-29T01:58:14.518Z",
+    "scrapedAt": "2026-10-29T17:06:47.035Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-10-29T01:58:10.928Z",
+    "scrapedAt": "2026-10-29T17:06:49.086Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -1119,7 +1119,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-10-29T01:58:11.986Z",
+    "scrapedAt": "2026-10-29T17:06:45.257Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1221,7 +1221,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 3916,
+    "reviewCount": 3919,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1491,7 +1491,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-10-29T01:58:11.730Z",
+    "scrapedAt": "2026-10-29T17:06:46.680Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1527,7 +1527,7 @@
         "available": true,
         "quantity": 1,
         "onHandQuantity": 1,
-        "leadTimeDays": 7,
+        "leadTimeDays": 6,
         "storeNumber": "149"
       },
       {
@@ -1818,7 +1818,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-10-29T01:58:12.406Z",
+    "scrapedAt": "2026-10-29T17:06:47.763Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {

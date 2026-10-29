@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#132,836 in Electronics #51 in OLED TVs",
+    "best_sellers_rank": "#118,345 in Electronics #49 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -144,7 +144,7 @@
       }
     ],
     "top_reviews": [],
-    "scrape_time": "2026-10-29 09:56"
+    "scrape_time": "2026-10-30 01:04"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -171,7 +171,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#234,449 in Electronics #285 in QLED TVs",
+    "best_sellers_rank": "#229,737 in Electronics #280 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -180,7 +180,7 @@
     "delivery_date": "",
     "fastest_delivery_date": "",
     "ships_from": "",
-    "seller_name": "Amazon.com",
+    "seller_name": "",
     "seller_page_url": "",
     "returns": "",
     "other_sellers": {},
@@ -289,6 +289,6 @@
     "customer_review_summary": "",
     "customer_review_aspects": [],
     "top_reviews": [],
-    "scrape_time": "2026-10-29 09:56"
+    "scrape_time": "2026-10-30 01:04"
   }
 }
