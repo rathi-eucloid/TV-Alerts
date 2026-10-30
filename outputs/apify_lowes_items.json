@@ -28,7 +28,7 @@
         "available": true,
         "quantity": 3,
         "onHandQuantity": 3,
-        "leadTimeDays": 10,
+        "leadTimeDays": 11,
         "storeNumber": "149"
       },
       {
@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-10-29T17:06:47.035Z",
+    "scrapedAt": "2026-10-30T02:10:24.121Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-10-29T17:06:49.086Z",
+    "scrapedAt": "2026-10-30T02:10:10.930Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -1119,7 +1119,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-10-29T17:06:45.257Z",
+    "scrapedAt": "2026-10-30T02:10:24.374Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1491,7 +1491,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-10-29T17:06:46.680Z",
+    "scrapedAt": "2026-10-30T02:10:12.225Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1514,9 +1514,7 @@
     "promotionEndsAt": "2026-11-01T23:59:59.000Z",
     "priceScope": "SOS",
     "isDealOfTheDay": false,
-    "promotions": [
-      "Free Delivery"
-    ],
+    "promotions": [],
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
@@ -1524,11 +1522,11 @@
     "fulfillment": [
       {
         "method": "Parcel",
-        "available": true,
-        "quantity": 1,
-        "onHandQuantity": 1,
-        "leadTimeDays": 6,
-        "storeNumber": "149"
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
       },
       {
         "method": "Pickup",
@@ -1555,7 +1553,7 @@
         "storeNumber": null
       }
     ],
-    "availableForShipping": true,
+    "availableForShipping": false,
     "availableForPickup": false,
     "availableForDelivery": false,
     "pickupStoreNumber": null,
@@ -1818,7 +1816,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-10-29T17:06:47.763Z",
+    "scrapedAt": "2026-10-30T02:10:13.279Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
