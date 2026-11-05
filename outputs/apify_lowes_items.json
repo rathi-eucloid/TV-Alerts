@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-11-05T06:53:29.298Z",
+    "scrapedAt": "2026-11-05T18:15:46.436Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-11-05T06:53:28.534Z",
+    "scrapedAt": "2026-11-05T18:15:38.165Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -1119,7 +1119,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-11-05T06:53:30.356Z",
+    "scrapedAt": "2026-11-05T18:15:37.313Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1221,7 +1221,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 3943,
+    "reviewCount": 3945,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1491,7 +1491,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-11-05T06:53:29.463Z",
+    "scrapedAt": "2026-11-05T18:15:37.785Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1818,7 +1818,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-11-05T06:53:30.078Z",
+    "scrapedAt": "2026-11-05T18:15:38.002Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
