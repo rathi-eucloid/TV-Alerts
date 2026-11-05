@@ -49,7 +49,7 @@ jobs:
           # BestBuy comes from Apify (plain HTTPS, no extra package). Amazon,
           # Samsung, Lowes and Walmart use Playwright; Amazon and the Lowes
           # price fallback parse HTML with BeautifulSoup + lxml.
-          pip install playwright openpyxl beautifulsoup4 lxml
+          pip install playwright openpyxl beautifulsoup4 lxml tzdata
 
       - name: Install Playwright Chromium (with deps) + Xvfb
         run: |
