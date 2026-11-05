@@ -6,13 +6,13 @@
     "brand": "Samsung",
     "title": "M70H 43-in 2160p (4K) Smart LED Indoor Flat screen HDTV",
     "url": "https://www.lowes.com/pd/Samsung-M70H-43-in-2160p-4K-Smart-LED-Indoor-use-only-Flat-screen-HDTV/5021390329",
-    "price": 249.99,
+    "price": 349.99,
     "priceMax": null,
     "priceIsRange": false,
-    "listPrice": 349.99,
-    "savingsAmount": 100,
-    "savingsPercent": 28,
-    "promotionEndsAt": "2026-11-01T23:59:59.000Z",
+    "listPrice": null,
+    "savingsAmount": null,
+    "savingsPercent": null,
+    "promotionEndsAt": null,
     "priceScope": "SOS",
     "isDealOfTheDay": false,
     "promotions": [
@@ -21,14 +21,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 737,
+    "reviewCount": 769,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
         "quantity": 3,
         "onHandQuantity": 3,
-        "leadTimeDays": 11,
+        "leadTimeDays": 10,
         "storeNumber": "149"
       },
       {
@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-11-02T01:45:54.425Z",
+    "scrapedAt": "2026-11-05T06:53:29.298Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -414,20 +414,20 @@
     "brand": "Samsung",
     "title": "S90F 65-in 2160p (4K) Smart OLED Indoor Flat screen HDTV",
     "url": "https://www.lowes.com/pd/Samsung-Samsung-65in-Class-OLED-4K-QN65S90FAFXZA-Vision-AI-Smart-TV-2025/5016711287",
-    "price": 1499.99,
+    "price": 2499.99,
     "priceMax": null,
     "priceIsRange": false,
-    "listPrice": 2499.99,
-    "savingsAmount": 1000,
-    "savingsPercent": 40,
-    "promotionEndsAt": "2026-11-01T23:59:59.000Z",
+    "listPrice": null,
+    "savingsAmount": null,
+    "savingsPercent": null,
+    "promotionEndsAt": null,
     "priceScope": "SOS",
     "isDealOfTheDay": false,
     "promotions": [],
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1356,
+    "reviewCount": 1364,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-11-02T01:45:52.596Z",
+    "scrapedAt": "2026-11-05T06:53:28.534Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -824,7 +824,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1356,
+    "reviewCount": 1364,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1119,7 +1119,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-11-02T01:46:05.819Z",
+    "scrapedAt": "2026-11-05T06:53:30.356Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1221,7 +1221,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 3920,
+    "reviewCount": 3943,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1491,7 +1491,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-11-02T01:45:53.432Z",
+    "scrapedAt": "2026-11-05T06:53:29.463Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": null,
@@ -1505,28 +1505,30 @@
     "brand": "Samsung",
     "title": "The Frame - LS03FA 65-in 2160p (4K) Smart QLED Indoor Flat screen HDTV",
     "url": "https://www.lowes.com/pd/Samsung-Samsung-65in-Class-The-Frame-LS03FA-QLED-4K-Art-Mode-Vision-AI-Smart-TV-2025/5016711233",
-    "price": 1099.99,
+    "price": 1699.99,
     "priceMax": null,
     "priceIsRange": false,
-    "listPrice": 1699.99,
-    "savingsAmount": 600,
-    "savingsPercent": 35,
-    "promotionEndsAt": "2026-11-01T23:59:59.000Z",
+    "listPrice": null,
+    "savingsAmount": null,
+    "savingsPercent": null,
+    "promotionEndsAt": null,
     "priceScope": "SOS",
     "isDealOfTheDay": false,
-    "promotions": [],
+    "promotions": [
+      "Free Delivery"
+    ],
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 491,
+    "reviewCount": 497,
     "fulfillment": [
       {
         "method": "Parcel",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
+        "available": true,
+        "quantity": 15,
+        "onHandQuantity": 15,
+        "leadTimeDays": 6,
+        "storeNumber": "149"
       },
       {
         "method": "Pickup",
@@ -1553,7 +1555,7 @@
         "storeNumber": null
       }
     ],
-    "availableForShipping": false,
+    "availableForShipping": true,
     "availableForPickup": false,
     "availableForDelivery": false,
     "pickupStoreNumber": null,
@@ -1816,7 +1818,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-11-02T01:45:54.686Z",
+    "scrapedAt": "2026-11-05T06:53:30.078Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {

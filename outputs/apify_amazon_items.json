@@ -16,7 +16,7 @@
     "subscribe_save_price": "",
     "coupon": "",
     "rating_stars": "4.8",
-    "rating_count": "38",
+    "rating_count": "39",
     "rating_distribution": {
       "5star": "89%",
       "4star": "7%",
@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#138,629 in Electronics #64 in OLED TVs",
+    "best_sellers_rank": "#132,237 in Electronics #61 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -130,8 +130,8 @@
     "customer_review_aspects": [
       {
         "aspect": "Quality",
-        "mentions": 9,
-        "positive": 9,
+        "mentions": 10,
+        "positive": 10,
         "negative": 0,
         "sentiment": "positive"
       },
@@ -144,7 +144,7 @@
       }
     ],
     "top_reviews": [],
-    "scrape_time": "2026-11-02 09:43"
+    "scrape_time": "2026-11-05 14:51"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -171,7 +171,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#242,409 in Electronics #285 in QLED TVs",
+    "best_sellers_rank": "#243,492 in Electronics #296 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -289,6 +289,6 @@
     "customer_review_summary": "",
     "customer_review_aspects": [],
     "top_reviews": [],
-    "scrape_time": "2026-11-02 09:43"
+    "scrape_time": "2026-11-05 14:51"
   }
 }
