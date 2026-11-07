@@ -20,15 +20,15 @@
     ],
     "freeShipping": null,
     "availabilityMessage": null,
-    "rating": 4.5,
-    "reviewCount": 770,
+    "rating": 4.4,
+    "reviewCount": 816,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
         "quantity": 3,
         "onHandQuantity": 3,
-        "leadTimeDays": 13,
+        "leadTimeDays": 12,
         "storeNumber": "149"
       },
       {
@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-11-07T02:16:55.773Z",
+    "scrapedAt": "2026-11-07T16:38:16.848Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -403,8 +403,8 @@
         "value": "1"
       }
     },
-    "lowesExclusive": null,
-    "energyStar": null,
+    "lowesExclusive": false,
+    "energyStar": false,
     "maxPurchaseQuantity": 5
   },
   "5016711287": {
@@ -427,7 +427,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1364,
+    "reviewCount": 1382,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-11-07T02:17:01.141Z",
+    "scrapedAt": "2026-11-07T16:38:15.540Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -800,8 +800,8 @@
         "value": "1"
       }
     },
-    "lowesExclusive": null,
-    "energyStar": null,
+    "lowesExclusive": false,
+    "energyStar": false,
     "maxPurchaseQuantity": null
   },
   "5016711225": {
@@ -824,7 +824,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1364,
+    "reviewCount": 1382,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1119,7 +1119,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-11-07T02:17:20.141Z",
+    "scrapedAt": "2026-11-07T16:38:16.067Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1197,8 +1197,8 @@
         "value": "1"
       }
     },
-    "lowesExclusive": null,
-    "energyStar": null,
+    "lowesExclusive": false,
+    "energyStar": false,
     "maxPurchaseQuantity": null
   },
   "5016711209": {
@@ -1221,7 +1221,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 3948,
+    "reviewCount": 3974,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1491,11 +1491,11 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-11-07T02:16:55.961Z",
+    "scrapedAt": "2026-11-07T16:38:15.718Z",
     "weight": null,
     "dimensions": null,
-    "lowesExclusive": null,
-    "energyStar": null,
+    "lowesExclusive": false,
+    "energyStar": false,
     "maxPurchaseQuantity": null
   },
   "5016711233": {
@@ -1520,14 +1520,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 497,
+    "reviewCount": 501,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
-        "quantity": 14,
-        "onHandQuantity": 14,
-        "leadTimeDays": 6,
+        "quantity": 13,
+        "onHandQuantity": 13,
+        "leadTimeDays": 5,
         "storeNumber": "149"
       },
       {
@@ -1818,7 +1818,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-11-07T02:16:56.114Z",
+    "scrapedAt": "2026-11-07T16:38:15.946Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
@@ -1896,8 +1896,8 @@
         "value": "1"
       }
     },
-    "lowesExclusive": null,
-    "energyStar": null,
+    "lowesExclusive": false,
+    "energyStar": false,
     "maxPurchaseQuantity": null
   }
 }
