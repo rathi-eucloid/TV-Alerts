@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-11-09T01:53:57.864Z",
+    "scrapedAt": "2026-11-09T21:01:36.452Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-11-09T01:53:57.762Z",
+    "scrapedAt": "2026-11-09T21:01:36.348Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -1119,7 +1119,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-11-09T01:53:56.414Z",
+    "scrapedAt": "2026-11-09T21:01:37.267Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1491,7 +1491,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-11-09T01:53:57.473Z",
+    "scrapedAt": "2026-11-09T21:01:36.863Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": false,
@@ -1818,7 +1818,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-11-09T01:53:58.418Z",
+    "scrapedAt": "2026-11-09T21:01:37.048Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {

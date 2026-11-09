@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#148,562 in Electronics #68 in OLED TVs",
+    "best_sellers_rank": "#133,187 in Electronics #65 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -144,7 +144,7 @@
       }
     ],
     "top_reviews": [],
-    "scrape_time": "2026-11-09 09:51"
+    "scrape_time": "2026-11-10 04:59"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -171,7 +171,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#254,257 in Electronics #297 in QLED TVs",
+    "best_sellers_rank": "#249,902 in Electronics #293 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -272,7 +272,8 @@
       "VESA Mount Standard": "200 x 200 mm",
       "Special Feature": "Browser, Built-In Speaker, Flat, Game Mode, Wide Viewing Angle",
       "Included Components": "Power Cable, Remote Control, Remote Control Battery, Stand, User Manual",
-      "Product Dimensions": "7.5\"D x 38.1\"W x 25\"H"
+      "Product Dimensions": "7.5\"D x 38.1\"W x 25\"H",
+      "Total USB 3.0 Ports": "1"
     },
     "model_number": "BNDL_QN43Q7FAA-HWLS60D",
     "manufacturer": "Samsung",
@@ -289,6 +290,6 @@
     "customer_review_summary": "",
     "customer_review_aspects": [],
     "top_reviews": [],
-    "scrape_time": "2026-11-09 09:51"
+    "scrape_time": "2026-11-10 04:59"
   }
 }
