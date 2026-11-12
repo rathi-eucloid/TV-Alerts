@@ -28,7 +28,7 @@
         "available": true,
         "quantity": 3,
         "onHandQuantity": 3,
-        "leadTimeDays": 10,
+        "leadTimeDays": 11,
         "storeNumber": "149"
       },
       {
@@ -51,7 +51,7 @@
         "method": "ExpeditedDelivery",
         "available": false,
         "quantity": 0,
-        "onHandQuantity": 0,
+        "onHandQuantity": null,
         "leadTimeDays": null,
         "storeNumber": null
       }
@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-11-11T18:03:02.332Z",
+    "scrapedAt": "2026-11-12T03:19:02.177Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -457,7 +457,7 @@
         "method": "ExpeditedDelivery",
         "available": false,
         "quantity": 0,
-        "onHandQuantity": 0,
+        "onHandQuantity": null,
         "leadTimeDays": null,
         "storeNumber": null
       }
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-11-11T18:03:17.995Z",
+    "scrapedAt": "2026-11-12T03:18:53.238Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -854,7 +854,7 @@
         "method": "ExpeditedDelivery",
         "available": false,
         "quantity": 0,
-        "onHandQuantity": 0,
+        "onHandQuantity": null,
         "leadTimeDays": null,
         "storeNumber": null
       }
@@ -1119,7 +1119,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-11-11T18:02:52.917Z",
+    "scrapedAt": "2026-11-12T03:18:55.326Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1251,7 +1251,7 @@
         "method": "ExpeditedDelivery",
         "available": false,
         "quantity": 0,
-        "onHandQuantity": 0,
+        "onHandQuantity": null,
         "leadTimeDays": null,
         "storeNumber": null
       }
@@ -1491,7 +1491,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-11-11T18:02:53.196Z",
+    "scrapedAt": "2026-11-12T03:18:53.494Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": false,
@@ -1550,7 +1550,7 @@
         "method": "ExpeditedDelivery",
         "available": false,
         "quantity": 0,
-        "onHandQuantity": 0,
+        "onHandQuantity": null,
         "leadTimeDays": null,
         "storeNumber": null
       }
@@ -1818,7 +1818,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-11-11T18:02:53.434Z",
+    "scrapedAt": "2026-11-12T03:18:53.878Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
