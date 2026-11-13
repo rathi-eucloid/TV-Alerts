@@ -1,1095 +1,4 @@
 {
-  "5016711287": {
-    "productId": "5016711287",
-    "itemNumber": "7213470",
-    "modelNumber": "QN65S90FAFXZA",
-    "brand": "Samsung",
-    "title": "S90F 65-in 2160p (4K) Smart OLED Indoor Flat screen HDTV",
-    "url": "https://www.lowes.com/pd/Samsung-Samsung-65in-Class-OLED-4K-QN65S90FAFXZA-Vision-AI-Smart-TV-2025/5016711287",
-    "price": 2499.99,
-    "priceMax": null,
-    "priceIsRange": false,
-    "listPrice": null,
-    "savingsAmount": null,
-    "savingsPercent": null,
-    "promotionEndsAt": null,
-    "priceScope": "SOS",
-    "isDealOfTheDay": false,
-    "promotions": [],
-    "freeShipping": null,
-    "availabilityMessage": null,
-    "rating": 4.7,
-    "reviewCount": 1397,
-    "fulfillment": [
-      {
-        "method": "Parcel",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "Pickup",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "Delivery",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "ExpeditedDelivery",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": null,
-        "leadTimeDays": null,
-        "storeNumber": null
-      }
-    ],
-    "availableForShipping": false,
-    "availableForPickup": false,
-    "availableForDelivery": false,
-    "pickupStoreNumber": null,
-    "pickupQuantity": 0,
-    "deliveryLeadTimeDays": 0,
-    "storeNumber": "0595",
-    "inStock": true,
-    "imageUrl": "https://mobileimages.lowes.com/productimages/500d2f11-6f53-4d63-bf61-3caccb20ecf2/72095739.jpeg",
-    "images": [
-      "https://mobileimages.lowes.com/productimages/500d2f11-6f53-4d63-bf61-3caccb20ecf2/72095739.jpeg",
-      "https://mobileimages.lowes.com/productimages/2a8cdf1a-93ce-4868-b9ea-f96e8016783c/72095742.jpeg",
-      "https://mobileimages.lowes.com/productimages/2d9fd5da-771d-4fc7-8605-8b00eb302382/72095740.jpeg",
-      "https://mobileimages.lowes.com/productimages/441884ac-baef-4d40-9726-9e6f073ecba1/72095737.png",
-      "https://mobileimages.lowes.com/productimages/158d8e81-afe7-4463-aca7-e4a3f868754c/72095744.jpeg",
-      "https://mobileimages.lowes.com/productimages/ce3598bd-3ad1-49a4-bd4a-abc2911b286b/98625976.jpeg",
-      "https://mobileimages.lowes.com/productimages/fa4f7c4e-b45b-4f64-a4d7-a03595477fdb/98625978.jpeg",
-      "https://mobileimages.lowes.com/productimages/6620b1cd-a9f7-4a19-a07a-afa320f7f9a8/98625981.jpeg",
-      "https://mobileimages.lowes.com/productimages/61d63102-99a9-4eda-903e-41794fd496a8/98625975.jpeg",
-      "https://mobileimages.lowes.com/productimages/1999c97b-df58-42f8-9926-6328b0898216/98625973.jpeg"
-    ],
-    "bulletPoints": [
-      "NQ4 AI Gen3 Processor Uses AI to delivers incredible 4K picture and dynamic sound for everything you watch.",
-      "4K AI Upscaling Pro  See content upscaled to impressive 4K, improving your viewing experience no matter what you watch",
-      "OLED HDR+ Deeper expanded contrast and powerful brights reveal nuanced details with self-illuminating pixels."
-    ],
-    "specifications": [
-      {
-        "key": "Number of USB Ports",
-        "value": "2"
-      },
-      {
-        "key": "Number of Speakers",
-        "value": "2"
-      },
-      {
-        "key": "Backlight Type",
-        "value": "Direct lit"
-      },
-      {
-        "key": "VESA Standard",
-        "value": "300 x 200"
-      },
-      {
-        "key": "Type",
-        "value": "Flat screen HDTV"
-      },
-      {
-        "key": "Display Type",
-        "value": "OLED"
-      },
-      {
-        "key": "Series Name",
-        "value": "S90F"
-      },
-      {
-        "key": "Color/Finish Family",
-        "value": "Black"
-      },
-      {
-        "key": "Use Location",
-        "value": null
-      },
-      {
-        "key": "Resolution",
-        "value": null
-      },
-      {
-        "key": "Smart Platform",
-        "value": null
-      },
-      {
-        "key": "Actual TV Size (Inches)",
-        "value": "64.5"
-      },
-      {
-        "key": "Common TV Size",
-        "value": "65-in"
-      },
-      {
-        "key": "Actual Height without Stand (Inches)",
-        "value": "32.7"
-      },
-      {
-        "key": "Actual Width without Stand (Inches)",
-        "value": "56.9"
-      },
-      {
-        "key": "Actual Depth without Stand (Inches)",
-        "value": "1.6"
-      },
-      {
-        "key": "Actual Weight without Stand (lbs.)",
-        "value": "46.7"
-      },
-      {
-        "key": "Actual Height with Stand (Inches)",
-        "value": "35.3"
-      },
-      {
-        "key": "Actual Width with Stand (Inches)",
-        "value": "56.9"
-      },
-      {
-        "key": "Actual Depth with Stand (Inches)",
-        "value": "10.4"
-      },
-      {
-        "key": "Actual Weight with Stand (lbs.)",
-        "value": "49.6"
-      },
-      {
-        "key": "Number of Ethernet Ports",
-        "value": "1"
-      },
-      {
-        "key": "3D",
-        "value": "No"
-      },
-      {
-        "key": "Built-In Speakers",
-        "value": "Yes"
-      },
-      {
-        "key": "Number of HDMI Ports",
-        "value": "4"
-      },
-      {
-        "key": "Component Input",
-        "value": "No"
-      },
-      {
-        "key": "Composite Input",
-        "value": "No"
-      },
-      {
-        "key": "DVI Input",
-        "value": "No"
-      },
-      {
-        "key": "Optical Input",
-        "value": "Yes"
-      },
-      {
-        "key": "Speaker Output (Watts)",
-        "value": "40"
-      },
-      {
-        "key": "Refresh Rate (Hz)",
-        "value": "120"
-      },
-      {
-        "key": "Aspect Ratio",
-        "value": "16:09"
-      },
-      {
-        "key": "High Dynamic Range (HDR)",
-        "value": "Yes"
-      },
-      {
-        "key": "Anti-Glare Screen Coating",
-        "value": "No"
-      },
-      {
-        "key": "Portable",
-        "value": "No"
-      },
-      {
-        "key": "Wall Mountable",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Apple HomeKit",
-        "value": "No"
-      },
-      {
-        "key": "Works with SmartThings",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Amazon Alexa",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with iOS",
-        "value": "No"
-      },
-      {
-        "key": "Works with Android",
-        "value": "Yes"
-      },
-      {
-        "key": "Wi-Fi Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "App Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with the Google Assistant",
-        "value": "Yes"
-      },
-      {
-        "key": "Bluetooth Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Wink",
-        "value": "No"
-      },
-      {
-        "key": "Smart Compatible",
-        "value": "Yes"
-      },
-      {
-        "key": "Warranty",
-        "value": "1-year"
-      },
-      {
-        "key": "CA Residents: Prop 65 Warning(s)",
-        "value": "Yes"
-      },
-      {
-        "key": "ENERGY STAR Certified",
-        "value": "No"
-      },
-      {
-        "key": "Features",
-        "value": null
-      },
-      {
-        "key": "Collection/Series Name",
-        "value": "S90F"
-      },
-      {
-        "key": "Connectivity",
-        "value": null
-      },
-      {
-        "key": "Operating System Compatibility",
-        "value": null
-      },
-      {
-        "key": "Works With",
-        "value": null
-      },
-      {
-        "key": "UNSPSC",
-        "value": "52161500"
-      }
-    ],
-    "department": "ELECTRICAL",
-    "category": "SOS HOME ENTERTAINMENT",
-    "subCategory": "SOS INDOOR TELEVISIONS",
-    "barcode": "887276946085",
-    "detailLevel": "full",
-    "searchQuery": null,
-    "sourceUrl": null,
-    "position": 2,
-    "scrapedAt": "2026-11-13T02:53:33.861Z",
-    "weight": 65.9,
-    "dimensions": {
-      "depth": {
-        "uom": "Inches",
-        "value": "6.3",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "16.002",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "160.02",
-            "system": "Metric"
-          }
-        ]
-      },
-      "width": {
-        "uom": "Inches",
-        "value": "63.7",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "161.798",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "1617.98",
-            "system": "Metric"
-          }
-        ]
-      },
-      "height": {
-        "uom": "Inches",
-        "value": "37.4",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "94.996",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "949.96",
-            "system": "Metric"
-          }
-        ]
-      },
-      "grossWeight": {
-        "uom": "lbs.",
-        "value": "65.9",
-        "conversions": [
-          {
-            "uom": "Kilograms",
-            "value": "29.8922",
-            "system": "Metric"
-          }
-        ]
-      },
-      "cube": {
-        "uom": "Cu. Feet",
-        "value": "8.68576",
-        "conversions": [
-          {
-            "uom": "Cu. Meters",
-            "value": "0.246",
-            "system": "Metric"
-          }
-        ]
-      },
-      "netContent": {
-        "uom": "Each",
-        "value": "1"
-      }
-    },
-    "lowesExclusive": false,
-    "energyStar": false,
-    "maxPurchaseQuantity": null
-  },
-  "5016711225": {
-    "productId": "5016711225",
-    "itemNumber": "7213449",
-    "modelNumber": "QN77S90FAFXZA",
-    "brand": "Samsung",
-    "title": "S90F 77-in 2160p (4K) Smart OLED Indoor Flat screen HDTV",
-    "url": "https://www.lowes.com/pd/Samsung-Samsung-77in-Class-OLED-4K-QN77S90FAFXZA-Vision-AI-Smart-TV-2025/5016711225",
-    "price": 3499.99,
-    "priceMax": null,
-    "priceIsRange": false,
-    "listPrice": null,
-    "savingsAmount": null,
-    "savingsPercent": null,
-    "promotionEndsAt": null,
-    "priceScope": "SOS",
-    "isDealOfTheDay": false,
-    "promotions": [],
-    "freeShipping": null,
-    "availabilityMessage": null,
-    "rating": 4.7,
-    "reviewCount": 1397,
-    "fulfillment": [
-      {
-        "method": "Parcel",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "Pickup",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "Delivery",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "ExpeditedDelivery",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": null,
-        "leadTimeDays": null,
-        "storeNumber": null
-      }
-    ],
-    "availableForShipping": false,
-    "availableForPickup": false,
-    "availableForDelivery": false,
-    "pickupStoreNumber": null,
-    "pickupQuantity": 0,
-    "deliveryLeadTimeDays": 0,
-    "storeNumber": "0595",
-    "inStock": true,
-    "imageUrl": "https://mobileimages.lowes.com/productimages/2b3a063e-c48b-42a5-9e76-07f15af530a1/72095741.jpeg",
-    "images": [
-      "https://mobileimages.lowes.com/productimages/2b3a063e-c48b-42a5-9e76-07f15af530a1/72095741.jpeg",
-      "https://mobileimages.lowes.com/productimages/2a8cdf1a-93ce-4868-b9ea-f96e8016783c/72095742.jpeg",
-      "https://mobileimages.lowes.com/productimages/761c656d-711d-4e58-9886-17d5f23e6f47/98626104.jpeg",
-      "https://mobileimages.lowes.com/productimages/daccd861-37cc-4477-9c31-04adb4a482eb/98626105.jpeg",
-      "https://mobileimages.lowes.com/productimages/8c4744af-48c7-4f7c-bc9f-b30b77c33fce/72095743.jpeg",
-      "https://mobileimages.lowes.com/productimages/ce3598bd-3ad1-49a4-bd4a-abc2911b286b/98625976.jpeg",
-      "https://mobileimages.lowes.com/productimages/fa4f7c4e-b45b-4f64-a4d7-a03595477fdb/98625978.jpeg",
-      "https://mobileimages.lowes.com/productimages/6620b1cd-a9f7-4a19-a07a-afa320f7f9a8/98625981.jpeg",
-      "https://mobileimages.lowes.com/productimages/61d63102-99a9-4eda-903e-41794fd496a8/98625975.jpeg",
-      "https://mobileimages.lowes.com/productimages/1999c97b-df58-42f8-9926-6328b0898216/98625973.jpeg"
-    ],
-    "bulletPoints": [
-      "NQ4 AI Gen3 Processor Uses AI to delivers incredible 4K picture and dynamic sound for everything you watch.",
-      "4K AI Upscaling Pro  See content upscaled to impressive 4K, improving your viewing experience no matter what you watch",
-      "OLED HDR+ Deeper expanded contrast and powerful brights reveal nuanced details with self-illuminating pixels."
-    ],
-    "specifications": [
-      {
-        "key": "Number of USB Ports",
-        "value": "2"
-      },
-      {
-        "key": "Number of Speakers",
-        "value": "2"
-      },
-      {
-        "key": "Backlight Type",
-        "value": "Direct lit"
-      },
-      {
-        "key": "VESA Standard",
-        "value": "400 x 300"
-      },
-      {
-        "key": "Type",
-        "value": "Flat screen HDTV"
-      },
-      {
-        "key": "Display Type",
-        "value": "OLED"
-      },
-      {
-        "key": "Series Name",
-        "value": "S90F"
-      },
-      {
-        "key": "Color/Finish Family",
-        "value": "Black"
-      },
-      {
-        "key": "Use Location",
-        "value": null
-      },
-      {
-        "key": "Resolution",
-        "value": null
-      },
-      {
-        "key": "Smart Platform",
-        "value": null
-      },
-      {
-        "key": "Actual TV Size (Inches)",
-        "value": "76.8"
-      },
-      {
-        "key": "Common TV Size",
-        "value": "77-in"
-      },
-      {
-        "key": "Actual Height without Stand (Inches)",
-        "value": "38.9"
-      },
-      {
-        "key": "Actual Width without Stand (Inches)",
-        "value": "67.7"
-      },
-      {
-        "key": "Actual Depth without Stand (Inches)",
-        "value": "1.8"
-      },
-      {
-        "key": "Actual Weight without Stand (lbs.)",
-        "value": "76.7"
-      },
-      {
-        "key": "Actual Height with Stand (Inches)",
-        "value": "41.7"
-      },
-      {
-        "key": "Actual Width with Stand (Inches)",
-        "value": "67.7"
-      },
-      {
-        "key": "Actual Depth with Stand (Inches)",
-        "value": "14.1"
-      },
-      {
-        "key": "Actual Weight with Stand (lbs.)",
-        "value": "80.7"
-      },
-      {
-        "key": "Number of Ethernet Ports",
-        "value": "1"
-      },
-      {
-        "key": "3D",
-        "value": "No"
-      },
-      {
-        "key": "Built-In Speakers",
-        "value": "Yes"
-      },
-      {
-        "key": "Number of HDMI Ports",
-        "value": "4"
-      },
-      {
-        "key": "Component Input",
-        "value": "No"
-      },
-      {
-        "key": "Composite Input",
-        "value": "No"
-      },
-      {
-        "key": "DVI Input",
-        "value": "No"
-      },
-      {
-        "key": "Optical Input",
-        "value": "Yes"
-      },
-      {
-        "key": "Speaker Output (Watts)",
-        "value": "40"
-      },
-      {
-        "key": "Refresh Rate (Hz)",
-        "value": "120"
-      },
-      {
-        "key": "Aspect Ratio",
-        "value": "16:09"
-      },
-      {
-        "key": "High Dynamic Range (HDR)",
-        "value": "Yes"
-      },
-      {
-        "key": "Anti-Glare Screen Coating",
-        "value": "No"
-      },
-      {
-        "key": "Portable",
-        "value": "No"
-      },
-      {
-        "key": "Wall Mountable",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Apple HomeKit",
-        "value": "No"
-      },
-      {
-        "key": "Works with SmartThings",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Amazon Alexa",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with iOS",
-        "value": "No"
-      },
-      {
-        "key": "Works with Android",
-        "value": "Yes"
-      },
-      {
-        "key": "Wi-Fi Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "App Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with the Google Assistant",
-        "value": "Yes"
-      },
-      {
-        "key": "Bluetooth Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Wink",
-        "value": "No"
-      },
-      {
-        "key": "Smart Compatible",
-        "value": "Yes"
-      },
-      {
-        "key": "Warranty",
-        "value": "1-year"
-      },
-      {
-        "key": "CA Residents: Prop 65 Warning(s)",
-        "value": "Yes"
-      },
-      {
-        "key": "ENERGY STAR Certified",
-        "value": "No"
-      },
-      {
-        "key": "Features",
-        "value": null
-      },
-      {
-        "key": "Collection/Series Name",
-        "value": "S90F"
-      },
-      {
-        "key": "Connectivity",
-        "value": null
-      },
-      {
-        "key": "Operating System Compatibility",
-        "value": null
-      },
-      {
-        "key": "Works With",
-        "value": null
-      },
-      {
-        "key": "UNSPSC",
-        "value": "52161500"
-      }
-    ],
-    "department": "ELECTRICAL",
-    "category": "SOS HOME ENTERTAINMENT",
-    "subCategory": "SOS INDOOR TELEVISIONS",
-    "barcode": "887276946054",
-    "detailLevel": "full",
-    "searchQuery": null,
-    "sourceUrl": null,
-    "position": 3,
-    "scrapedAt": "2026-11-13T02:53:01.873Z",
-    "weight": 103.2,
-    "dimensions": {
-      "depth": {
-        "uom": "Inches",
-        "value": "7.1",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "18.034",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "180.34",
-            "system": "Metric"
-          }
-        ]
-      },
-      "width": {
-        "uom": "Inches",
-        "value": "74.2",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "188.468",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "1884.68",
-            "system": "Metric"
-          }
-        ]
-      },
-      "height": {
-        "uom": "Inches",
-        "value": "45.4",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "115.316",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "1153.16",
-            "system": "Metric"
-          }
-        ]
-      },
-      "grossWeight": {
-        "uom": "lbs.",
-        "value": "103.2",
-        "conversions": [
-          {
-            "uom": "Kilograms",
-            "value": "46.8115",
-            "system": "Metric"
-          }
-        ]
-      },
-      "cube": {
-        "uom": "Cu. Feet",
-        "value": "13.84122",
-        "conversions": [
-          {
-            "uom": "Cu. Meters",
-            "value": "0.3919",
-            "system": "Metric"
-          }
-        ]
-      },
-      "netContent": {
-        "uom": "Each",
-        "value": "1"
-      }
-    },
-    "lowesExclusive": false,
-    "energyStar": false,
-    "maxPurchaseQuantity": null
-  },
-  "5016711209": {
-    "productId": "5016711209",
-    "itemNumber": "7213421",
-    "modelNumber": "QN43Q7FAAFXZA",
-    "brand": "Samsung",
-    "title": "Q7F 43-in 2160p (4K) Smart QLED Indoor Flat screen HDTV",
-    "url": "https://www.lowes.com/pd/Samsung-Q7F-43-in-2160p-4K-Smart-QLED-Indoor-use-only-Flat-screen-HDTV/5016711209",
-    "price": 349.99,
-    "priceMax": null,
-    "priceIsRange": false,
-    "listPrice": null,
-    "savingsAmount": null,
-    "savingsPercent": null,
-    "promotionEndsAt": null,
-    "priceScope": "SOS",
-    "isDealOfTheDay": false,
-    "promotions": [],
-    "freeShipping": null,
-    "availabilityMessage": null,
-    "rating": 4.6,
-    "reviewCount": 4006,
-    "fulfillment": [
-      {
-        "method": "Parcel",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "Pickup",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "Delivery",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "ExpeditedDelivery",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": null,
-        "leadTimeDays": null,
-        "storeNumber": null
-      }
-    ],
-    "availableForShipping": false,
-    "availableForPickup": false,
-    "availableForDelivery": false,
-    "pickupStoreNumber": null,
-    "pickupQuantity": 0,
-    "deliveryLeadTimeDays": 0,
-    "storeNumber": "0595",
-    "inStock": false,
-    "imageUrl": "https://mobileimages.lowes.com/productimages/c9de4646-6972-48dc-bc2a-19417fa52cb4/72005685.jpeg",
-    "images": [
-      "https://mobileimages.lowes.com/productimages/c9de4646-6972-48dc-bc2a-19417fa52cb4/72005685.jpeg",
-      "https://mobileimages.lowes.com/productimages/a9da76a6-c12e-4e58-9ed4-b19976be9245/72005687.jpeg",
-      "https://mobileimages.lowes.com/productimages/4a8be7bd-ace3-41f5-ba3f-0119cff390a9/72005679.jpeg",
-      "https://mobileimages.lowes.com/productimages/d8ca2df7-fd61-4be1-a6ea-aeb2d863114b/72005676.jpeg",
-      "https://mobileimages.lowes.com/productimages/e0caf978-bc1e-4a20-b600-450e95d6a570/72005686.jpeg"
-    ],
-    "bulletPoints": [
-      "Watch your content in stunning 4K resolution and enjoy AI\u0002enhanced color boosted picture and audio quality",
-      "Appreciate every beautiful shade of color regardless of the level of brightness",
-      "Your personal data on your TV is protected by Knox, covering harmful apps, websites, passwords, and safeguards IoT devices connected to your TV"
-    ],
-    "specifications": [
-      {
-        "key": "Resolution",
-        "value": "2160p (4K)"
-      },
-      {
-        "key": "Number of USB Ports",
-        "value": "1"
-      },
-      {
-        "key": "Number of Speakers",
-        "value": "2"
-      },
-      {
-        "key": "Smart Platform",
-        "value": "Tizen"
-      },
-      {
-        "key": "Backlight Type",
-        "value": "Edge lit"
-      },
-      {
-        "key": "VESA Standard",
-        "value": "200 x 200"
-      },
-      {
-        "key": "Type",
-        "value": "Flat screen HDTV"
-      },
-      {
-        "key": "Display Type",
-        "value": "QLED"
-      },
-      {
-        "key": "Use Location",
-        "value": "Indoor use only"
-      },
-      {
-        "key": "Series Name",
-        "value": "Q7F"
-      },
-      {
-        "key": "Color/Finish Family",
-        "value": "Black"
-      },
-      {
-        "key": "Actual TV Size (Inches)",
-        "value": "42.5"
-      },
-      {
-        "key": "Common TV Size",
-        "value": "43-in"
-      },
-      {
-        "key": "Actual Height without Stand (Inches)",
-        "value": "22.1"
-      },
-      {
-        "key": "Actual Width without Stand (Inches)",
-        "value": "38.1"
-      },
-      {
-        "key": "Actual Depth without Stand (Inches)",
-        "value": "2.4"
-      },
-      {
-        "key": "Actual Weight without Stand (lbs.)",
-        "value": "15"
-      },
-      {
-        "key": "Actual Height with Stand (Inches)",
-        "value": "24"
-      },
-      {
-        "key": "Actual Width with Stand (Inches)",
-        "value": "38.1"
-      },
-      {
-        "key": "Actual Depth with Stand (Inches)",
-        "value": "7.5"
-      },
-      {
-        "key": "Actual Weight with Stand (lbs.)",
-        "value": "15.7"
-      },
-      {
-        "key": "Number of Ethernet Ports",
-        "value": "1"
-      },
-      {
-        "key": "3D",
-        "value": "No"
-      },
-      {
-        "key": "Built-In Speakers",
-        "value": "Yes"
-      },
-      {
-        "key": "Number of HDMI Ports",
-        "value": "3"
-      },
-      {
-        "key": "Component Input",
-        "value": "No"
-      },
-      {
-        "key": "Composite Input",
-        "value": "No"
-      },
-      {
-        "key": "DVI Input",
-        "value": "No"
-      },
-      {
-        "key": "Optical Input",
-        "value": "Yes"
-      },
-      {
-        "key": "Speaker Output (Watts)",
-        "value": "20"
-      },
-      {
-        "key": "Refresh Rate (Hz)",
-        "value": "60"
-      },
-      {
-        "key": "Aspect Ratio",
-        "value": "16:09"
-      },
-      {
-        "key": "High Dynamic Range (HDR)",
-        "value": "Yes"
-      },
-      {
-        "key": "Anti-Glare Screen Coating",
-        "value": "No"
-      },
-      {
-        "key": "Portable",
-        "value": "No"
-      },
-      {
-        "key": "Wall Mountable",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Apple HomeKit",
-        "value": "No"
-      },
-      {
-        "key": "Works with SmartThings",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Amazon Alexa",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with iOS",
-        "value": "No"
-      },
-      {
-        "key": "Works with Android",
-        "value": "Yes"
-      },
-      {
-        "key": "Wi-Fi Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "App Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with the Google Assistant",
-        "value": "Yes"
-      },
-      {
-        "key": "Bluetooth Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Wink",
-        "value": "No"
-      },
-      {
-        "key": "Smart Compatible",
-        "value": "Yes"
-      },
-      {
-        "key": "Warranty",
-        "value": "1-year"
-      },
-      {
-        "key": "CA Residents: Prop 65 Warning(s)",
-        "value": "Yes"
-      },
-      {
-        "key": "ENERGY STAR Certified",
-        "value": "No"
-      },
-      {
-        "key": "UNSPSC",
-        "value": "52161500"
-      }
-    ],
-    "department": "ELECTRICAL",
-    "category": "SOS HOME ENTERTAINMENT",
-    "subCategory": "SOS INDOOR TELEVISIONS",
-    "barcode": "887276990989",
-    "detailLevel": "full",
-    "searchQuery": null,
-    "sourceUrl": null,
-    "position": 4,
-    "scrapedAt": "2026-11-13T02:53:04.924Z",
-    "weight": null,
-    "dimensions": null,
-    "lowesExclusive": false,
-    "energyStar": false,
-    "maxPurchaseQuantity": null
-  },
   "5021390329": {
     "productId": "5021390329",
     "itemNumber": "6423479",
@@ -1112,14 +21,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.4,
-    "reviewCount": 868,
+    "reviewCount": 871,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
         "quantity": 3,
         "onHandQuantity": 3,
-        "leadTimeDays": 11,
+        "leadTimeDays": 10,
         "storeNumber": "149"
       },
       {
@@ -1416,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-11-13T02:54:17.748Z",
+    "scrapedAt": "2026-11-13T18:01:46.260Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -1498,6 +407,1097 @@
     "energyStar": false,
     "maxPurchaseQuantity": 5
   },
+  "5016711287": {
+    "productId": "5016711287",
+    "itemNumber": "7213470",
+    "modelNumber": "QN65S90FAFXZA",
+    "brand": "Samsung",
+    "title": "S90F 65-in 2160p (4K) Smart OLED Indoor Flat screen HDTV",
+    "url": "https://www.lowes.com/pd/Samsung-Samsung-65in-Class-OLED-4K-QN65S90FAFXZA-Vision-AI-Smart-TV-2025/5016711287",
+    "price": 2499.99,
+    "priceMax": null,
+    "priceIsRange": false,
+    "listPrice": null,
+    "savingsAmount": null,
+    "savingsPercent": null,
+    "promotionEndsAt": null,
+    "priceScope": "SOS",
+    "isDealOfTheDay": false,
+    "promotions": [],
+    "freeShipping": null,
+    "availabilityMessage": null,
+    "rating": 4.7,
+    "reviewCount": 1398,
+    "fulfillment": [
+      {
+        "method": "Parcel",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "Pickup",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "Delivery",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "ExpeditedDelivery",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": null,
+        "leadTimeDays": null,
+        "storeNumber": null
+      }
+    ],
+    "availableForShipping": false,
+    "availableForPickup": false,
+    "availableForDelivery": false,
+    "pickupStoreNumber": null,
+    "pickupQuantity": 0,
+    "deliveryLeadTimeDays": 0,
+    "storeNumber": "0595",
+    "inStock": true,
+    "imageUrl": "https://mobileimages.lowes.com/productimages/500d2f11-6f53-4d63-bf61-3caccb20ecf2/72095739.jpeg",
+    "images": [
+      "https://mobileimages.lowes.com/productimages/500d2f11-6f53-4d63-bf61-3caccb20ecf2/72095739.jpeg",
+      "https://mobileimages.lowes.com/productimages/2a8cdf1a-93ce-4868-b9ea-f96e8016783c/72095742.jpeg",
+      "https://mobileimages.lowes.com/productimages/2d9fd5da-771d-4fc7-8605-8b00eb302382/72095740.jpeg",
+      "https://mobileimages.lowes.com/productimages/441884ac-baef-4d40-9726-9e6f073ecba1/72095737.png",
+      "https://mobileimages.lowes.com/productimages/158d8e81-afe7-4463-aca7-e4a3f868754c/72095744.jpeg",
+      "https://mobileimages.lowes.com/productimages/ce3598bd-3ad1-49a4-bd4a-abc2911b286b/98625976.jpeg",
+      "https://mobileimages.lowes.com/productimages/fa4f7c4e-b45b-4f64-a4d7-a03595477fdb/98625978.jpeg",
+      "https://mobileimages.lowes.com/productimages/6620b1cd-a9f7-4a19-a07a-afa320f7f9a8/98625981.jpeg",
+      "https://mobileimages.lowes.com/productimages/61d63102-99a9-4eda-903e-41794fd496a8/98625975.jpeg",
+      "https://mobileimages.lowes.com/productimages/1999c97b-df58-42f8-9926-6328b0898216/98625973.jpeg"
+    ],
+    "bulletPoints": [
+      "NQ4 AI Gen3 Processor Uses AI to delivers incredible 4K picture and dynamic sound for everything you watch.",
+      "4K AI Upscaling Pro  See content upscaled to impressive 4K, improving your viewing experience no matter what you watch",
+      "OLED HDR+ Deeper expanded contrast and powerful brights reveal nuanced details with self-illuminating pixels."
+    ],
+    "specifications": [
+      {
+        "key": "Number of USB Ports",
+        "value": "2"
+      },
+      {
+        "key": "Number of Speakers",
+        "value": "2"
+      },
+      {
+        "key": "Backlight Type",
+        "value": "Direct lit"
+      },
+      {
+        "key": "VESA Standard",
+        "value": "300 x 200"
+      },
+      {
+        "key": "Type",
+        "value": "Flat screen HDTV"
+      },
+      {
+        "key": "Display Type",
+        "value": "OLED"
+      },
+      {
+        "key": "Series Name",
+        "value": "S90F"
+      },
+      {
+        "key": "Color/Finish Family",
+        "value": "Black"
+      },
+      {
+        "key": "Use Location",
+        "value": null
+      },
+      {
+        "key": "Resolution",
+        "value": null
+      },
+      {
+        "key": "Smart Platform",
+        "value": null
+      },
+      {
+        "key": "Actual TV Size (Inches)",
+        "value": "64.5"
+      },
+      {
+        "key": "Common TV Size",
+        "value": "65-in"
+      },
+      {
+        "key": "Actual Height without Stand (Inches)",
+        "value": "32.7"
+      },
+      {
+        "key": "Actual Width without Stand (Inches)",
+        "value": "56.9"
+      },
+      {
+        "key": "Actual Depth without Stand (Inches)",
+        "value": "1.6"
+      },
+      {
+        "key": "Actual Weight without Stand (lbs.)",
+        "value": "46.7"
+      },
+      {
+        "key": "Actual Height with Stand (Inches)",
+        "value": "35.3"
+      },
+      {
+        "key": "Actual Width with Stand (Inches)",
+        "value": "56.9"
+      },
+      {
+        "key": "Actual Depth with Stand (Inches)",
+        "value": "10.4"
+      },
+      {
+        "key": "Actual Weight with Stand (lbs.)",
+        "value": "49.6"
+      },
+      {
+        "key": "Number of Ethernet Ports",
+        "value": "1"
+      },
+      {
+        "key": "3D",
+        "value": "No"
+      },
+      {
+        "key": "Built-In Speakers",
+        "value": "Yes"
+      },
+      {
+        "key": "Number of HDMI Ports",
+        "value": "4"
+      },
+      {
+        "key": "Component Input",
+        "value": "No"
+      },
+      {
+        "key": "Composite Input",
+        "value": "No"
+      },
+      {
+        "key": "DVI Input",
+        "value": "No"
+      },
+      {
+        "key": "Optical Input",
+        "value": "Yes"
+      },
+      {
+        "key": "Speaker Output (Watts)",
+        "value": "40"
+      },
+      {
+        "key": "Refresh Rate (Hz)",
+        "value": "120"
+      },
+      {
+        "key": "Aspect Ratio",
+        "value": "16:09"
+      },
+      {
+        "key": "High Dynamic Range (HDR)",
+        "value": "Yes"
+      },
+      {
+        "key": "Anti-Glare Screen Coating",
+        "value": "No"
+      },
+      {
+        "key": "Portable",
+        "value": "No"
+      },
+      {
+        "key": "Wall Mountable",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Apple HomeKit",
+        "value": "No"
+      },
+      {
+        "key": "Works with SmartThings",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Amazon Alexa",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with iOS",
+        "value": "No"
+      },
+      {
+        "key": "Works with Android",
+        "value": "Yes"
+      },
+      {
+        "key": "Wi-Fi Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "App Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with the Google Assistant",
+        "value": "Yes"
+      },
+      {
+        "key": "Bluetooth Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Wink",
+        "value": "No"
+      },
+      {
+        "key": "Smart Compatible",
+        "value": "Yes"
+      },
+      {
+        "key": "Warranty",
+        "value": "1-year"
+      },
+      {
+        "key": "CA Residents: Prop 65 Warning(s)",
+        "value": "Yes"
+      },
+      {
+        "key": "ENERGY STAR Certified",
+        "value": "No"
+      },
+      {
+        "key": "Features",
+        "value": null
+      },
+      {
+        "key": "Collection/Series Name",
+        "value": "S90F"
+      },
+      {
+        "key": "Connectivity",
+        "value": null
+      },
+      {
+        "key": "Operating System Compatibility",
+        "value": null
+      },
+      {
+        "key": "Works With",
+        "value": null
+      },
+      {
+        "key": "UNSPSC",
+        "value": "52161500"
+      }
+    ],
+    "department": "ELECTRICAL",
+    "category": "SOS HOME ENTERTAINMENT",
+    "subCategory": "SOS INDOOR TELEVISIONS",
+    "barcode": "887276946085",
+    "detailLevel": "full",
+    "searchQuery": null,
+    "sourceUrl": null,
+    "position": 2,
+    "scrapedAt": "2026-11-13T18:01:46.454Z",
+    "weight": 65.9,
+    "dimensions": {
+      "depth": {
+        "uom": "Inches",
+        "value": "6.3",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "16.002",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "160.02",
+            "system": "Metric"
+          }
+        ]
+      },
+      "width": {
+        "uom": "Inches",
+        "value": "63.7",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "161.798",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "1617.98",
+            "system": "Metric"
+          }
+        ]
+      },
+      "height": {
+        "uom": "Inches",
+        "value": "37.4",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "94.996",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "949.96",
+            "system": "Metric"
+          }
+        ]
+      },
+      "grossWeight": {
+        "uom": "lbs.",
+        "value": "65.9",
+        "conversions": [
+          {
+            "uom": "Kilograms",
+            "value": "29.8922",
+            "system": "Metric"
+          }
+        ]
+      },
+      "cube": {
+        "uom": "Cu. Feet",
+        "value": "8.68576",
+        "conversions": [
+          {
+            "uom": "Cu. Meters",
+            "value": "0.246",
+            "system": "Metric"
+          }
+        ]
+      },
+      "netContent": {
+        "uom": "Each",
+        "value": "1"
+      }
+    },
+    "lowesExclusive": false,
+    "energyStar": false,
+    "maxPurchaseQuantity": null
+  },
+  "5016711225": {
+    "productId": "5016711225",
+    "itemNumber": "7213449",
+    "modelNumber": "QN77S90FAFXZA",
+    "brand": "Samsung",
+    "title": "S90F 77-in 2160p (4K) Smart OLED Indoor Flat screen HDTV",
+    "url": "https://www.lowes.com/pd/Samsung-Samsung-77in-Class-OLED-4K-QN77S90FAFXZA-Vision-AI-Smart-TV-2025/5016711225",
+    "price": 3499.99,
+    "priceMax": null,
+    "priceIsRange": false,
+    "listPrice": null,
+    "savingsAmount": null,
+    "savingsPercent": null,
+    "promotionEndsAt": null,
+    "priceScope": "SOS",
+    "isDealOfTheDay": false,
+    "promotions": [],
+    "freeShipping": null,
+    "availabilityMessage": null,
+    "rating": 4.7,
+    "reviewCount": 1398,
+    "fulfillment": [
+      {
+        "method": "Parcel",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "Pickup",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "Delivery",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "ExpeditedDelivery",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": null,
+        "leadTimeDays": null,
+        "storeNumber": null
+      }
+    ],
+    "availableForShipping": false,
+    "availableForPickup": false,
+    "availableForDelivery": false,
+    "pickupStoreNumber": null,
+    "pickupQuantity": 0,
+    "deliveryLeadTimeDays": 0,
+    "storeNumber": "0595",
+    "inStock": true,
+    "imageUrl": "https://mobileimages.lowes.com/productimages/2b3a063e-c48b-42a5-9e76-07f15af530a1/72095741.jpeg",
+    "images": [
+      "https://mobileimages.lowes.com/productimages/2b3a063e-c48b-42a5-9e76-07f15af530a1/72095741.jpeg",
+      "https://mobileimages.lowes.com/productimages/2a8cdf1a-93ce-4868-b9ea-f96e8016783c/72095742.jpeg",
+      "https://mobileimages.lowes.com/productimages/761c656d-711d-4e58-9886-17d5f23e6f47/98626104.jpeg",
+      "https://mobileimages.lowes.com/productimages/daccd861-37cc-4477-9c31-04adb4a482eb/98626105.jpeg",
+      "https://mobileimages.lowes.com/productimages/8c4744af-48c7-4f7c-bc9f-b30b77c33fce/72095743.jpeg",
+      "https://mobileimages.lowes.com/productimages/ce3598bd-3ad1-49a4-bd4a-abc2911b286b/98625976.jpeg",
+      "https://mobileimages.lowes.com/productimages/fa4f7c4e-b45b-4f64-a4d7-a03595477fdb/98625978.jpeg",
+      "https://mobileimages.lowes.com/productimages/6620b1cd-a9f7-4a19-a07a-afa320f7f9a8/98625981.jpeg",
+      "https://mobileimages.lowes.com/productimages/61d63102-99a9-4eda-903e-41794fd496a8/98625975.jpeg",
+      "https://mobileimages.lowes.com/productimages/1999c97b-df58-42f8-9926-6328b0898216/98625973.jpeg"
+    ],
+    "bulletPoints": [
+      "NQ4 AI Gen3 Processor Uses AI to delivers incredible 4K picture and dynamic sound for everything you watch.",
+      "4K AI Upscaling Pro  See content upscaled to impressive 4K, improving your viewing experience no matter what you watch",
+      "OLED HDR+ Deeper expanded contrast and powerful brights reveal nuanced details with self-illuminating pixels."
+    ],
+    "specifications": [
+      {
+        "key": "Number of USB Ports",
+        "value": "2"
+      },
+      {
+        "key": "Number of Speakers",
+        "value": "2"
+      },
+      {
+        "key": "Backlight Type",
+        "value": "Direct lit"
+      },
+      {
+        "key": "VESA Standard",
+        "value": "400 x 300"
+      },
+      {
+        "key": "Type",
+        "value": "Flat screen HDTV"
+      },
+      {
+        "key": "Display Type",
+        "value": "OLED"
+      },
+      {
+        "key": "Series Name",
+        "value": "S90F"
+      },
+      {
+        "key": "Color/Finish Family",
+        "value": "Black"
+      },
+      {
+        "key": "Use Location",
+        "value": null
+      },
+      {
+        "key": "Resolution",
+        "value": null
+      },
+      {
+        "key": "Smart Platform",
+        "value": null
+      },
+      {
+        "key": "Actual TV Size (Inches)",
+        "value": "76.8"
+      },
+      {
+        "key": "Common TV Size",
+        "value": "77-in"
+      },
+      {
+        "key": "Actual Height without Stand (Inches)",
+        "value": "38.9"
+      },
+      {
+        "key": "Actual Width without Stand (Inches)",
+        "value": "67.7"
+      },
+      {
+        "key": "Actual Depth without Stand (Inches)",
+        "value": "1.8"
+      },
+      {
+        "key": "Actual Weight without Stand (lbs.)",
+        "value": "76.7"
+      },
+      {
+        "key": "Actual Height with Stand (Inches)",
+        "value": "41.7"
+      },
+      {
+        "key": "Actual Width with Stand (Inches)",
+        "value": "67.7"
+      },
+      {
+        "key": "Actual Depth with Stand (Inches)",
+        "value": "14.1"
+      },
+      {
+        "key": "Actual Weight with Stand (lbs.)",
+        "value": "80.7"
+      },
+      {
+        "key": "Number of Ethernet Ports",
+        "value": "1"
+      },
+      {
+        "key": "3D",
+        "value": "No"
+      },
+      {
+        "key": "Built-In Speakers",
+        "value": "Yes"
+      },
+      {
+        "key": "Number of HDMI Ports",
+        "value": "4"
+      },
+      {
+        "key": "Component Input",
+        "value": "No"
+      },
+      {
+        "key": "Composite Input",
+        "value": "No"
+      },
+      {
+        "key": "DVI Input",
+        "value": "No"
+      },
+      {
+        "key": "Optical Input",
+        "value": "Yes"
+      },
+      {
+        "key": "Speaker Output (Watts)",
+        "value": "40"
+      },
+      {
+        "key": "Refresh Rate (Hz)",
+        "value": "120"
+      },
+      {
+        "key": "Aspect Ratio",
+        "value": "16:09"
+      },
+      {
+        "key": "High Dynamic Range (HDR)",
+        "value": "Yes"
+      },
+      {
+        "key": "Anti-Glare Screen Coating",
+        "value": "No"
+      },
+      {
+        "key": "Portable",
+        "value": "No"
+      },
+      {
+        "key": "Wall Mountable",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Apple HomeKit",
+        "value": "No"
+      },
+      {
+        "key": "Works with SmartThings",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Amazon Alexa",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with iOS",
+        "value": "No"
+      },
+      {
+        "key": "Works with Android",
+        "value": "Yes"
+      },
+      {
+        "key": "Wi-Fi Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "App Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with the Google Assistant",
+        "value": "Yes"
+      },
+      {
+        "key": "Bluetooth Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Wink",
+        "value": "No"
+      },
+      {
+        "key": "Smart Compatible",
+        "value": "Yes"
+      },
+      {
+        "key": "Warranty",
+        "value": "1-year"
+      },
+      {
+        "key": "CA Residents: Prop 65 Warning(s)",
+        "value": "Yes"
+      },
+      {
+        "key": "ENERGY STAR Certified",
+        "value": "No"
+      },
+      {
+        "key": "Features",
+        "value": null
+      },
+      {
+        "key": "Collection/Series Name",
+        "value": "S90F"
+      },
+      {
+        "key": "Connectivity",
+        "value": null
+      },
+      {
+        "key": "Operating System Compatibility",
+        "value": null
+      },
+      {
+        "key": "Works With",
+        "value": null
+      },
+      {
+        "key": "UNSPSC",
+        "value": "52161500"
+      }
+    ],
+    "department": "ELECTRICAL",
+    "category": "SOS HOME ENTERTAINMENT",
+    "subCategory": "SOS INDOOR TELEVISIONS",
+    "barcode": "887276946054",
+    "detailLevel": "full",
+    "searchQuery": null,
+    "sourceUrl": null,
+    "position": 3,
+    "scrapedAt": "2026-11-13T18:01:45.868Z",
+    "weight": 103.2,
+    "dimensions": {
+      "depth": {
+        "uom": "Inches",
+        "value": "7.1",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "18.034",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "180.34",
+            "system": "Metric"
+          }
+        ]
+      },
+      "width": {
+        "uom": "Inches",
+        "value": "74.2",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "188.468",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "1884.68",
+            "system": "Metric"
+          }
+        ]
+      },
+      "height": {
+        "uom": "Inches",
+        "value": "45.4",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "115.316",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "1153.16",
+            "system": "Metric"
+          }
+        ]
+      },
+      "grossWeight": {
+        "uom": "lbs.",
+        "value": "103.2",
+        "conversions": [
+          {
+            "uom": "Kilograms",
+            "value": "46.8115",
+            "system": "Metric"
+          }
+        ]
+      },
+      "cube": {
+        "uom": "Cu. Feet",
+        "value": "13.84122",
+        "conversions": [
+          {
+            "uom": "Cu. Meters",
+            "value": "0.3919",
+            "system": "Metric"
+          }
+        ]
+      },
+      "netContent": {
+        "uom": "Each",
+        "value": "1"
+      }
+    },
+    "lowesExclusive": false,
+    "energyStar": false,
+    "maxPurchaseQuantity": null
+  },
+  "5016711209": {
+    "productId": "5016711209",
+    "itemNumber": "7213421",
+    "modelNumber": "QN43Q7FAAFXZA",
+    "brand": "Samsung",
+    "title": "Q7F 43-in 2160p (4K) Smart QLED Indoor Flat screen HDTV",
+    "url": "https://www.lowes.com/pd/Samsung-Q7F-43-in-2160p-4K-Smart-QLED-Indoor-use-only-Flat-screen-HDTV/5016711209",
+    "price": 349.99,
+    "priceMax": null,
+    "priceIsRange": false,
+    "listPrice": null,
+    "savingsAmount": null,
+    "savingsPercent": null,
+    "promotionEndsAt": null,
+    "priceScope": "SOS",
+    "isDealOfTheDay": false,
+    "promotions": [],
+    "freeShipping": null,
+    "availabilityMessage": null,
+    "rating": 4.6,
+    "reviewCount": 4010,
+    "fulfillment": [
+      {
+        "method": "Parcel",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "Pickup",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "Delivery",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "ExpeditedDelivery",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": null,
+        "leadTimeDays": null,
+        "storeNumber": null
+      }
+    ],
+    "availableForShipping": false,
+    "availableForPickup": false,
+    "availableForDelivery": false,
+    "pickupStoreNumber": null,
+    "pickupQuantity": 0,
+    "deliveryLeadTimeDays": 0,
+    "storeNumber": "0595",
+    "inStock": false,
+    "imageUrl": "https://mobileimages.lowes.com/productimages/c9de4646-6972-48dc-bc2a-19417fa52cb4/72005685.jpeg",
+    "images": [
+      "https://mobileimages.lowes.com/productimages/c9de4646-6972-48dc-bc2a-19417fa52cb4/72005685.jpeg",
+      "https://mobileimages.lowes.com/productimages/a9da76a6-c12e-4e58-9ed4-b19976be9245/72005687.jpeg",
+      "https://mobileimages.lowes.com/productimages/4a8be7bd-ace3-41f5-ba3f-0119cff390a9/72005679.jpeg",
+      "https://mobileimages.lowes.com/productimages/d8ca2df7-fd61-4be1-a6ea-aeb2d863114b/72005676.jpeg",
+      "https://mobileimages.lowes.com/productimages/e0caf978-bc1e-4a20-b600-450e95d6a570/72005686.jpeg"
+    ],
+    "bulletPoints": [
+      "Watch your content in stunning 4K resolution and enjoy AI\u0002enhanced color boosted picture and audio quality",
+      "Appreciate every beautiful shade of color regardless of the level of brightness",
+      "Your personal data on your TV is protected by Knox, covering harmful apps, websites, passwords, and safeguards IoT devices connected to your TV"
+    ],
+    "specifications": [
+      {
+        "key": "Resolution",
+        "value": "2160p (4K)"
+      },
+      {
+        "key": "Number of USB Ports",
+        "value": "1"
+      },
+      {
+        "key": "Number of Speakers",
+        "value": "2"
+      },
+      {
+        "key": "Smart Platform",
+        "value": "Tizen"
+      },
+      {
+        "key": "Backlight Type",
+        "value": "Edge lit"
+      },
+      {
+        "key": "VESA Standard",
+        "value": "200 x 200"
+      },
+      {
+        "key": "Type",
+        "value": "Flat screen HDTV"
+      },
+      {
+        "key": "Display Type",
+        "value": "QLED"
+      },
+      {
+        "key": "Use Location",
+        "value": "Indoor use only"
+      },
+      {
+        "key": "Series Name",
+        "value": "Q7F"
+      },
+      {
+        "key": "Color/Finish Family",
+        "value": "Black"
+      },
+      {
+        "key": "Actual TV Size (Inches)",
+        "value": "42.5"
+      },
+      {
+        "key": "Common TV Size",
+        "value": "43-in"
+      },
+      {
+        "key": "Actual Height without Stand (Inches)",
+        "value": "22.1"
+      },
+      {
+        "key": "Actual Width without Stand (Inches)",
+        "value": "38.1"
+      },
+      {
+        "key": "Actual Depth without Stand (Inches)",
+        "value": "2.4"
+      },
+      {
+        "key": "Actual Weight without Stand (lbs.)",
+        "value": "15"
+      },
+      {
+        "key": "Actual Height with Stand (Inches)",
+        "value": "24"
+      },
+      {
+        "key": "Actual Width with Stand (Inches)",
+        "value": "38.1"
+      },
+      {
+        "key": "Actual Depth with Stand (Inches)",
+        "value": "7.5"
+      },
+      {
+        "key": "Actual Weight with Stand (lbs.)",
+        "value": "15.7"
+      },
+      {
+        "key": "Number of Ethernet Ports",
+        "value": "1"
+      },
+      {
+        "key": "3D",
+        "value": "No"
+      },
+      {
+        "key": "Built-In Speakers",
+        "value": "Yes"
+      },
+      {
+        "key": "Number of HDMI Ports",
+        "value": "3"
+      },
+      {
+        "key": "Component Input",
+        "value": "No"
+      },
+      {
+        "key": "Composite Input",
+        "value": "No"
+      },
+      {
+        "key": "DVI Input",
+        "value": "No"
+      },
+      {
+        "key": "Optical Input",
+        "value": "Yes"
+      },
+      {
+        "key": "Speaker Output (Watts)",
+        "value": "20"
+      },
+      {
+        "key": "Refresh Rate (Hz)",
+        "value": "60"
+      },
+      {
+        "key": "Aspect Ratio",
+        "value": "16:09"
+      },
+      {
+        "key": "High Dynamic Range (HDR)",
+        "value": "Yes"
+      },
+      {
+        "key": "Anti-Glare Screen Coating",
+        "value": "No"
+      },
+      {
+        "key": "Portable",
+        "value": "No"
+      },
+      {
+        "key": "Wall Mountable",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Apple HomeKit",
+        "value": "No"
+      },
+      {
+        "key": "Works with SmartThings",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Amazon Alexa",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with iOS",
+        "value": "No"
+      },
+      {
+        "key": "Works with Android",
+        "value": "Yes"
+      },
+      {
+        "key": "Wi-Fi Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "App Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with the Google Assistant",
+        "value": "Yes"
+      },
+      {
+        "key": "Bluetooth Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Wink",
+        "value": "No"
+      },
+      {
+        "key": "Smart Compatible",
+        "value": "Yes"
+      },
+      {
+        "key": "Warranty",
+        "value": "1-year"
+      },
+      {
+        "key": "CA Residents: Prop 65 Warning(s)",
+        "value": "Yes"
+      },
+      {
+        "key": "ENERGY STAR Certified",
+        "value": "No"
+      },
+      {
+        "key": "UNSPSC",
+        "value": "52161500"
+      }
+    ],
+    "department": "ELECTRICAL",
+    "category": "SOS HOME ENTERTAINMENT",
+    "subCategory": "SOS INDOOR TELEVISIONS",
+    "barcode": "887276990989",
+    "detailLevel": "full",
+    "searchQuery": null,
+    "sourceUrl": null,
+    "position": 4,
+    "scrapedAt": "2026-11-13T18:01:46.264Z",
+    "weight": null,
+    "dimensions": null,
+    "lowesExclusive": false,
+    "energyStar": false,
+    "maxPurchaseQuantity": null
+  },
   "5016711233": {
     "productId": "5016711233",
     "itemNumber": "7213433",
@@ -1505,7 +1505,7 @@
     "brand": "Samsung",
     "title": "The Frame - LS03FA 65-in 2160p (4K) Smart QLED Indoor Flat screen HDTV",
     "url": "https://www.lowes.com/pd/Samsung-Samsung-65in-Class-The-Frame-LS03FA-QLED-4K-Art-Mode-Vision-AI-Smart-TV-2025/5016711233",
-    "price": 1699.99,
+    "price": 1499.99,
     "priceMax": null,
     "priceIsRange": false,
     "listPrice": null,
@@ -1525,9 +1525,9 @@
       {
         "method": "Parcel",
         "available": true,
-        "quantity": 11,
-        "onHandQuantity": 11,
-        "leadTimeDays": 6,
+        "quantity": 20,
+        "onHandQuantity": 20,
+        "leadTimeDays": 5,
         "storeNumber": "149"
       },
       {
@@ -1817,8 +1817,8 @@
     "detailLevel": "full",
     "searchQuery": null,
     "sourceUrl": null,
-    "position": 2,
-    "scrapedAt": "2026-11-13T02:54:23.829Z",
+    "position": 5,
+    "scrapedAt": "2026-11-13T18:01:46.495Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
