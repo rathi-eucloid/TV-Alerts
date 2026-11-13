@@ -1,412 +1,4 @@
 {
-  "5021390329": {
-    "productId": "5021390329",
-    "itemNumber": "6423479",
-    "modelNumber": "UN43M70HAFXZA",
-    "brand": "Samsung",
-    "title": "M70H 43-in 2160p (4K) Smart LED Indoor Flat screen HDTV",
-    "url": "https://www.lowes.com/pd/Samsung-M70H-43-in-2160p-4K-Smart-LED-Indoor-use-only-Flat-screen-HDTV/5021390329",
-    "price": 349.99,
-    "priceMax": null,
-    "priceIsRange": false,
-    "listPrice": null,
-    "savingsAmount": null,
-    "savingsPercent": null,
-    "promotionEndsAt": null,
-    "priceScope": "SOS",
-    "isDealOfTheDay": false,
-    "promotions": [
-      "Free Delivery"
-    ],
-    "freeShipping": null,
-    "availabilityMessage": null,
-    "rating": 4.4,
-    "reviewCount": 868,
-    "fulfillment": [
-      {
-        "method": "Parcel",
-        "available": true,
-        "quantity": 3,
-        "onHandQuantity": 3,
-        "leadTimeDays": 10,
-        "storeNumber": "149"
-      },
-      {
-        "method": "Pickup",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "Delivery",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "ExpeditedDelivery",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": null,
-        "leadTimeDays": null,
-        "storeNumber": null
-      }
-    ],
-    "availableForShipping": true,
-    "availableForPickup": false,
-    "availableForDelivery": false,
-    "pickupStoreNumber": null,
-    "pickupQuantity": 0,
-    "deliveryLeadTimeDays": 0,
-    "storeNumber": "0595",
-    "inStock": false,
-    "imageUrl": "https://mobileimages.lowes.com/productimages/9109a158-8287-4b60-9adf-50131614ba40/86505929.jpeg",
-    "images": [
-      "https://mobileimages.lowes.com/productimages/9109a158-8287-4b60-9adf-50131614ba40/86505929.jpeg",
-      "https://mobileimages.lowes.com/productimages/8821ff9e-3c3b-47ef-b35e-2cdb2412b641/93374718.jpeg",
-      "https://mobileimages.lowes.com/productimages/1140780c-9308-4d13-a45f-9c9fb49b02a1/93374716.jpeg",
-      "https://mobileimages.lowes.com/productimages/b1c291eb-e6d0-4b24-a8b1-3ce1e5f09d2b/89594305.jpeg",
-      "https://mobileimages.lowes.com/productimages/cf042f18-cce2-4dfb-82fc-895fe02bd5e9/93375856.jpeg",
-      "https://mobileimages.lowes.com/productimages/5c0e7416-1e7d-4c0b-a276-d766c595705c/93375859.jpeg",
-      "https://mobileimages.lowes.com/productimages/e7b14a9d-8a16-4288-b1de-bb04162287f1/93374709.jpeg",
-      "https://mobileimages.lowes.com/productimages/26616a50-04f8-4d61-9979-4d6642ac1c5a/93374711.jpeg",
-      "https://mobileimages.lowes.com/productimages/692ed330-90b1-48da-b11c-e654734eb738/98285249.jpeg",
-      "https://mobileimages.lowes.com/productimages/0d192395-2672-483b-9849-1e0d75c14088/97568655.jpeg",
-      "https://mobileimages.lowes.com/productimages/4d7b0997-adba-487b-9e7b-6c5df3c2e892/98285282.jpeg",
-      "https://mobileimages.lowes.com/productimages/5894c0ba-6fdc-45d9-8314-1aa8a65e908f/98285243.jpeg",
-      "https://mobileimages.lowes.com/productimages/c42f2686-c3f8-41f7-a534-c89f9bfdc413/98285246.jpeg",
-      "https://mobileimages.lowes.com/productimages/050356ef-8034-4552-a9ea-cb33979f62d7/98186106.jpeg",
-      "https://mobileimages.lowes.com/productimages/c3fc9339-fcc8-4ffa-b5e9-45f6baf613f6/98285244.jpeg"
-    ],
-    "bulletPoints": [
-      "Mini LED Processor 4K Powers a sharp, bright and\nvibrant 4K picture Scenes pop with vibrant colors\nand sharp details thanks to our\nadvanced Mini LED processor\nwhich enhances everything you\nsee",
-      "Pure Spectrum Color A billion true\nto life colors Get colors in their true form\nwith one billion stunning\nshades, powered by this\nbreakthrough color technology\nand Mini LED precision",
-      "Mini LED HDR See dramatic detail in every\nscene Bring your HDR movies and\nshows to life in intense detail\nwith brighter highlights and\ndeeper blacks"
-    ],
-    "specifications": [
-      {
-        "key": "Number of USB Ports",
-        "value": "1"
-      },
-      {
-        "key": "Number of Speakers",
-        "value": "2"
-      },
-      {
-        "key": "Backlight Type",
-        "value": "Direct lit"
-      },
-      {
-        "key": "VESA Standard",
-        "value": "200 x 200"
-      },
-      {
-        "key": "Type",
-        "value": "Flat screen HDTV"
-      },
-      {
-        "key": "Display Type",
-        "value": "LED"
-      },
-      {
-        "key": "Series Name",
-        "value": "M70H"
-      },
-      {
-        "key": "Color/Finish Family",
-        "value": "Black"
-      },
-      {
-        "key": "Use Location",
-        "value": null
-      },
-      {
-        "key": "Resolution",
-        "value": null
-      },
-      {
-        "key": "Smart Platform",
-        "value": null
-      },
-      {
-        "key": "Actual TV Size (Inches)",
-        "value": "42.5"
-      },
-      {
-        "key": "Common TV Size",
-        "value": "43-in"
-      },
-      {
-        "key": "Actual Height without Stand (Inches)",
-        "value": "22"
-      },
-      {
-        "key": "Actual Width without Stand (Inches)",
-        "value": "38"
-      },
-      {
-        "key": "Actual Depth without Stand (Inches)",
-        "value": "1"
-      },
-      {
-        "key": "Actual Weight without Stand (lbs.)",
-        "value": "14.8"
-      },
-      {
-        "key": "Actual Height with Stand (Inches)",
-        "value": "24.2"
-      },
-      {
-        "key": "Actual Width with Stand (Inches)",
-        "value": "38"
-      },
-      {
-        "key": "Actual Depth with Stand (Inches)",
-        "value": "7.8"
-      },
-      {
-        "key": "Actual Weight with Stand (lbs.)",
-        "value": "15.3"
-      },
-      {
-        "key": "Number of Ethernet Ports",
-        "value": "1"
-      },
-      {
-        "key": "3D",
-        "value": "No"
-      },
-      {
-        "key": "Built-In Speakers",
-        "value": "2"
-      },
-      {
-        "key": "Number of HDMI Ports",
-        "value": "3"
-      },
-      {
-        "key": "Component Input",
-        "value": "No"
-      },
-      {
-        "key": "Composite Input",
-        "value": "No"
-      },
-      {
-        "key": "DVI Input",
-        "value": "No"
-      },
-      {
-        "key": "Optical Input",
-        "value": "No"
-      },
-      {
-        "key": "Speaker Output (Watts)",
-        "value": "20"
-      },
-      {
-        "key": "Refresh Rate (Hz)",
-        "value": "60"
-      },
-      {
-        "key": "Aspect Ratio",
-        "value": "16:09"
-      },
-      {
-        "key": "High Dynamic Range (HDR)",
-        "value": "Yes"
-      },
-      {
-        "key": "Anti-Glare Screen Coating",
-        "value": "No"
-      },
-      {
-        "key": "Matter Certified",
-        "value": "Yes"
-      },
-      {
-        "key": "Portable",
-        "value": "No"
-      },
-      {
-        "key": "Wall Mountable",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Apple HomeKit",
-        "value": "No"
-      },
-      {
-        "key": "Works with SmartThings",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Amazon Alexa",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with iOS",
-        "value": "No"
-      },
-      {
-        "key": "Works with Android",
-        "value": "Yes"
-      },
-      {
-        "key": "Wi-Fi Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "App Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with the Google Assistant",
-        "value": "Yes"
-      },
-      {
-        "key": "Bluetooth Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Wink",
-        "value": "No"
-      },
-      {
-        "key": "Smart Compatible",
-        "value": "Yes"
-      },
-      {
-        "key": "Warranty",
-        "value": "1-year"
-      },
-      {
-        "key": "CA Residents: Prop 65 Warning(s)",
-        "value": "Yes"
-      },
-      {
-        "key": "ENERGY STAR Certified",
-        "value": "No"
-      },
-      {
-        "key": "Features",
-        "value": null
-      },
-      {
-        "key": "Collection/Series Name",
-        "value": "M70H"
-      },
-      {
-        "key": "Connectivity",
-        "value": null
-      },
-      {
-        "key": "Operating System Compatibility",
-        "value": null
-      },
-      {
-        "key": "Works With",
-        "value": null
-      },
-      {
-        "key": "UNSPSC",
-        "value": "52161500"
-      }
-    ],
-    "department": "ELECTRICAL",
-    "category": "TELEVISIONS",
-    "subCategory": "SAMSUNG TVS",
-    "barcode": "198957270291",
-    "detailLevel": "full",
-    "searchQuery": null,
-    "sourceUrl": null,
-    "position": 1,
-    "scrapedAt": "2026-11-12T18:34:11.172Z",
-    "weight": 22,
-    "dimensions": {
-      "depth": {
-        "uom": "Inches",
-        "value": "4.6",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "11.684",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "116.84",
-            "system": "Metric"
-          }
-        ]
-      },
-      "width": {
-        "uom": "Inches",
-        "value": "42.1",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "106.934",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "1069.34",
-            "system": "Metric"
-          }
-        ]
-      },
-      "height": {
-        "uom": "Inches",
-        "value": "25.6",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "65.024",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "650.24",
-            "system": "Metric"
-          }
-        ]
-      },
-      "grossWeight": {
-        "uom": "lbs.",
-        "value": "22",
-        "conversions": [
-          {
-            "uom": "Kilograms",
-            "value": "9.9792",
-            "system": "Metric"
-          }
-        ]
-      },
-      "cube": {
-        "uom": "Cu. Feet",
-        "value": "2.869037",
-        "conversions": [
-          {
-            "uom": "Cu. Meters",
-            "value": "0.0812",
-            "system": "Metric"
-          }
-        ]
-      },
-      "netContent": {
-        "uom": "Each",
-        "value": "1"
-      }
-    },
-    "lowesExclusive": false,
-    "energyStar": false,
-    "maxPurchaseQuantity": 5
-  },
   "5016711287": {
     "productId": "5016711287",
     "itemNumber": "7213470",
@@ -722,7 +314,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-11-12T18:34:25.587Z",
+    "scrapedAt": "2026-11-13T02:53:33.861Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -1119,7 +711,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-11-12T18:34:19.368Z",
+    "scrapedAt": "2026-11-13T02:53:01.873Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1491,12 +1083,420 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-11-12T18:34:11.473Z",
+    "scrapedAt": "2026-11-13T02:53:04.924Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": false,
     "energyStar": false,
     "maxPurchaseQuantity": null
+  },
+  "5021390329": {
+    "productId": "5021390329",
+    "itemNumber": "6423479",
+    "modelNumber": "UN43M70HAFXZA",
+    "brand": "Samsung",
+    "title": "M70H 43-in 2160p (4K) Smart LED Indoor Flat screen HDTV",
+    "url": "https://www.lowes.com/pd/Samsung-M70H-43-in-2160p-4K-Smart-LED-Indoor-use-only-Flat-screen-HDTV/5021390329",
+    "price": 349.99,
+    "priceMax": null,
+    "priceIsRange": false,
+    "listPrice": null,
+    "savingsAmount": null,
+    "savingsPercent": null,
+    "promotionEndsAt": null,
+    "priceScope": "SOS",
+    "isDealOfTheDay": false,
+    "promotions": [
+      "Free Delivery"
+    ],
+    "freeShipping": null,
+    "availabilityMessage": null,
+    "rating": 4.4,
+    "reviewCount": 868,
+    "fulfillment": [
+      {
+        "method": "Parcel",
+        "available": true,
+        "quantity": 3,
+        "onHandQuantity": 3,
+        "leadTimeDays": 11,
+        "storeNumber": "149"
+      },
+      {
+        "method": "Pickup",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "Delivery",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "ExpeditedDelivery",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": null,
+        "leadTimeDays": null,
+        "storeNumber": null
+      }
+    ],
+    "availableForShipping": true,
+    "availableForPickup": false,
+    "availableForDelivery": false,
+    "pickupStoreNumber": null,
+    "pickupQuantity": 0,
+    "deliveryLeadTimeDays": 0,
+    "storeNumber": "0595",
+    "inStock": false,
+    "imageUrl": "https://mobileimages.lowes.com/productimages/9109a158-8287-4b60-9adf-50131614ba40/86505929.jpeg",
+    "images": [
+      "https://mobileimages.lowes.com/productimages/9109a158-8287-4b60-9adf-50131614ba40/86505929.jpeg",
+      "https://mobileimages.lowes.com/productimages/8821ff9e-3c3b-47ef-b35e-2cdb2412b641/93374718.jpeg",
+      "https://mobileimages.lowes.com/productimages/1140780c-9308-4d13-a45f-9c9fb49b02a1/93374716.jpeg",
+      "https://mobileimages.lowes.com/productimages/b1c291eb-e6d0-4b24-a8b1-3ce1e5f09d2b/89594305.jpeg",
+      "https://mobileimages.lowes.com/productimages/cf042f18-cce2-4dfb-82fc-895fe02bd5e9/93375856.jpeg",
+      "https://mobileimages.lowes.com/productimages/5c0e7416-1e7d-4c0b-a276-d766c595705c/93375859.jpeg",
+      "https://mobileimages.lowes.com/productimages/e7b14a9d-8a16-4288-b1de-bb04162287f1/93374709.jpeg",
+      "https://mobileimages.lowes.com/productimages/26616a50-04f8-4d61-9979-4d6642ac1c5a/93374711.jpeg",
+      "https://mobileimages.lowes.com/productimages/692ed330-90b1-48da-b11c-e654734eb738/98285249.jpeg",
+      "https://mobileimages.lowes.com/productimages/0d192395-2672-483b-9849-1e0d75c14088/97568655.jpeg",
+      "https://mobileimages.lowes.com/productimages/4d7b0997-adba-487b-9e7b-6c5df3c2e892/98285282.jpeg",
+      "https://mobileimages.lowes.com/productimages/5894c0ba-6fdc-45d9-8314-1aa8a65e908f/98285243.jpeg",
+      "https://mobileimages.lowes.com/productimages/c42f2686-c3f8-41f7-a534-c89f9bfdc413/98285246.jpeg",
+      "https://mobileimages.lowes.com/productimages/050356ef-8034-4552-a9ea-cb33979f62d7/98186106.jpeg",
+      "https://mobileimages.lowes.com/productimages/c3fc9339-fcc8-4ffa-b5e9-45f6baf613f6/98285244.jpeg"
+    ],
+    "bulletPoints": [
+      "Mini LED Processor 4K Powers a sharp, bright and\nvibrant 4K picture Scenes pop with vibrant colors\nand sharp details thanks to our\nadvanced Mini LED processor\nwhich enhances everything you\nsee",
+      "Pure Spectrum Color A billion true\nto life colors Get colors in their true form\nwith one billion stunning\nshades, powered by this\nbreakthrough color technology\nand Mini LED precision",
+      "Mini LED HDR See dramatic detail in every\nscene Bring your HDR movies and\nshows to life in intense detail\nwith brighter highlights and\ndeeper blacks"
+    ],
+    "specifications": [
+      {
+        "key": "Number of USB Ports",
+        "value": "1"
+      },
+      {
+        "key": "Number of Speakers",
+        "value": "2"
+      },
+      {
+        "key": "Backlight Type",
+        "value": "Direct lit"
+      },
+      {
+        "key": "VESA Standard",
+        "value": "200 x 200"
+      },
+      {
+        "key": "Type",
+        "value": "Flat screen HDTV"
+      },
+      {
+        "key": "Display Type",
+        "value": "LED"
+      },
+      {
+        "key": "Series Name",
+        "value": "M70H"
+      },
+      {
+        "key": "Color/Finish Family",
+        "value": "Black"
+      },
+      {
+        "key": "Use Location",
+        "value": null
+      },
+      {
+        "key": "Resolution",
+        "value": null
+      },
+      {
+        "key": "Smart Platform",
+        "value": null
+      },
+      {
+        "key": "Actual TV Size (Inches)",
+        "value": "42.5"
+      },
+      {
+        "key": "Common TV Size",
+        "value": "43-in"
+      },
+      {
+        "key": "Actual Height without Stand (Inches)",
+        "value": "22"
+      },
+      {
+        "key": "Actual Width without Stand (Inches)",
+        "value": "38"
+      },
+      {
+        "key": "Actual Depth without Stand (Inches)",
+        "value": "1"
+      },
+      {
+        "key": "Actual Weight without Stand (lbs.)",
+        "value": "14.8"
+      },
+      {
+        "key": "Actual Height with Stand (Inches)",
+        "value": "24.2"
+      },
+      {
+        "key": "Actual Width with Stand (Inches)",
+        "value": "38"
+      },
+      {
+        "key": "Actual Depth with Stand (Inches)",
+        "value": "7.8"
+      },
+      {
+        "key": "Actual Weight with Stand (lbs.)",
+        "value": "15.3"
+      },
+      {
+        "key": "Number of Ethernet Ports",
+        "value": "1"
+      },
+      {
+        "key": "3D",
+        "value": "No"
+      },
+      {
+        "key": "Built-In Speakers",
+        "value": "2"
+      },
+      {
+        "key": "Number of HDMI Ports",
+        "value": "3"
+      },
+      {
+        "key": "Component Input",
+        "value": "No"
+      },
+      {
+        "key": "Composite Input",
+        "value": "No"
+      },
+      {
+        "key": "DVI Input",
+        "value": "No"
+      },
+      {
+        "key": "Optical Input",
+        "value": "No"
+      },
+      {
+        "key": "Speaker Output (Watts)",
+        "value": "20"
+      },
+      {
+        "key": "Refresh Rate (Hz)",
+        "value": "60"
+      },
+      {
+        "key": "Aspect Ratio",
+        "value": "16:09"
+      },
+      {
+        "key": "High Dynamic Range (HDR)",
+        "value": "Yes"
+      },
+      {
+        "key": "Anti-Glare Screen Coating",
+        "value": "No"
+      },
+      {
+        "key": "Matter Certified",
+        "value": "Yes"
+      },
+      {
+        "key": "Portable",
+        "value": "No"
+      },
+      {
+        "key": "Wall Mountable",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Apple HomeKit",
+        "value": "No"
+      },
+      {
+        "key": "Works with SmartThings",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Amazon Alexa",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with iOS",
+        "value": "No"
+      },
+      {
+        "key": "Works with Android",
+        "value": "Yes"
+      },
+      {
+        "key": "Wi-Fi Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "App Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with the Google Assistant",
+        "value": "Yes"
+      },
+      {
+        "key": "Bluetooth Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Wink",
+        "value": "No"
+      },
+      {
+        "key": "Smart Compatible",
+        "value": "Yes"
+      },
+      {
+        "key": "Warranty",
+        "value": "1-year"
+      },
+      {
+        "key": "CA Residents: Prop 65 Warning(s)",
+        "value": "Yes"
+      },
+      {
+        "key": "ENERGY STAR Certified",
+        "value": "No"
+      },
+      {
+        "key": "Features",
+        "value": null
+      },
+      {
+        "key": "Collection/Series Name",
+        "value": "M70H"
+      },
+      {
+        "key": "Connectivity",
+        "value": null
+      },
+      {
+        "key": "Operating System Compatibility",
+        "value": null
+      },
+      {
+        "key": "Works With",
+        "value": null
+      },
+      {
+        "key": "UNSPSC",
+        "value": "52161500"
+      }
+    ],
+    "department": "ELECTRICAL",
+    "category": "TELEVISIONS",
+    "subCategory": "SAMSUNG TVS",
+    "barcode": "198957270291",
+    "detailLevel": "full",
+    "searchQuery": null,
+    "sourceUrl": null,
+    "position": 1,
+    "scrapedAt": "2026-11-13T02:54:17.748Z",
+    "weight": 22,
+    "dimensions": {
+      "depth": {
+        "uom": "Inches",
+        "value": "4.6",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "11.684",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "116.84",
+            "system": "Metric"
+          }
+        ]
+      },
+      "width": {
+        "uom": "Inches",
+        "value": "42.1",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "106.934",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "1069.34",
+            "system": "Metric"
+          }
+        ]
+      },
+      "height": {
+        "uom": "Inches",
+        "value": "25.6",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "65.024",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "650.24",
+            "system": "Metric"
+          }
+        ]
+      },
+      "grossWeight": {
+        "uom": "lbs.",
+        "value": "22",
+        "conversions": [
+          {
+            "uom": "Kilograms",
+            "value": "9.9792",
+            "system": "Metric"
+          }
+        ]
+      },
+      "cube": {
+        "uom": "Cu. Feet",
+        "value": "2.869037",
+        "conversions": [
+          {
+            "uom": "Cu. Meters",
+            "value": "0.0812",
+            "system": "Metric"
+          }
+        ]
+      },
+      "netContent": {
+        "uom": "Each",
+        "value": "1"
+      }
+    },
+    "lowesExclusive": false,
+    "energyStar": false,
+    "maxPurchaseQuantity": 5
   },
   "5016711233": {
     "productId": "5016711233",
@@ -1817,8 +1817,8 @@
     "detailLevel": "full",
     "searchQuery": null,
     "sourceUrl": null,
-    "position": 5,
-    "scrapedAt": "2026-11-12T18:34:11.740Z",
+    "position": 2,
+    "scrapedAt": "2026-11-13T02:54:23.829Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
