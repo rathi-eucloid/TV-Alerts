@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#152,778 in Electronics #68 in OLED TVs",
+    "best_sellers_rank": "#138,223 in Electronics #64 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -71,6 +71,7 @@
       "Display Technology": "OLED",
       "Resolution": "4K",
       "Refresh Rate": "120 hertz",
+      "Aspect Ratio": "16:9",
       "Contrast Ratio": "High",
       "HDR Format Supported": "OLED HDR+",
       "Motion Enhancement Technology": "Motion Xcelerator 144Hz",
@@ -84,15 +85,16 @@
       "Size": "77 inches",
       "Connectivity Technology": "Bluetooth, Ethernet, HDMI, USB, Wi-Fi",
       "Internet Applications": "Netflix, Prime Video, Disney+, Hulu, Apple TV, YouTube, HBO Max, Peacock, Sling, and More",
+      "Audio Input": "HDMI, USB, Optical",
+      "Signal Format": "HDMI, USB, ATSC",
       "Total Number of HDMI Ports": "4",
       "Hardware Interface": "Ethernet, HDMI, S/PDIF, USB",
       "Wireless Technology": "Bluetooth, Wi-Fi",
       "Connector Type": "HDMI, USB, LAN, Optical, RF, RS-232C",
       "Total Usb Ports": "2",
-      "Operating System": "One UI Tizen",
-      "Control Method": "App, Remote, Voice",
-      "Controller Type": "Remote Control",
-      "Software Update Supported to Date": "unknown",
+      "Mounting Type": "VESA 400mm x 300mm",
+      "Color": "Graphite Black",
+      "Warranty Type": "Full",
       "Brand": "Samsung",
       "Model Name": "QN77S90FAFXZA",
       "Model Year": "2025",
@@ -113,9 +115,10 @@
       "Integrated Surround Sound Format": "Dolby Atmos",
       "Additional Features": "NQ4 AI Gen3 Processor, AI Motion Enhancer Pro, 120Hz (Up to 144Hz) Refresh Rate, OLED HDR+, Auto HDR Remastering, Ultra Viewing Angle, Real Depth Enhancer, Motion Xcelerator 144Hz, Film Mode, 4K AI Upscaling Pro, Color Booster Pro, Dolby Atmos, OTS Lite, Q-Symphony Pro, Bluetooth Audio, 360 Audio, Tizen Smart TV, Samsung Health, VESA 400mm x 300mm, Wi-Fi 5, HDMI 4, 2 x USB-A, Eco Sensor, Auto Power Saving/Off, BT SolarCell Remote",
       "Parental Control Technology": "V-Chip",
-      "Mounting Type": "VESA 400mm x 300mm",
-      "Color": "Graphite Black",
-      "Warranty Type": "Full",
+      "Operating System": "One UI Tizen",
+      "Control Method": "App, Remote, Voice",
+      "Controller Type": "Remote Control",
+      "Software Update Supported to Date": "unknown",
       "Special Feature": "NQ4 AI Gen3 Processor, AI Motion Enhancer Pro, 120Hz (Up to 144Hz) Refresh Rate, OLED HDR+, Auto HDR Remastering, Ultra Viewing Angle, Real Depth Enhancer, Motion Xcelerator 144Hz, Film Mode, 4K AI Upscaling Pro, Color Booster Pro, Dolby Atmos, OTS Lite, Q-Symphony Pro, Bluetooth Audio, 360 Audio, Tizen Smart TV, Samsung Health, VESA 400mm x 300mm, Wi-Fi 5, HDMI 4, 2 x USB-A, Eco Sensor, Auto Power Saving/Off, BT SolarCell Remote See more",
       "Product Dimensions": "14.1\"D x 67.7\"W x 41.7\"H",
       "Supported Internet Services": "Netflix, Prime Video, Disney+, Hulu, Apple TV, YouTube, HBO Max, Peacock, Sling, and More"
@@ -144,7 +147,7 @@
       }
     ],
     "top_reviews": [],
-    "scrape_time": "2026-11-14 10:37"
+    "scrape_time": "2026-11-15 00:41"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -171,7 +174,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#259,659 in Electronics #320 in QLED TVs",
+    "best_sellers_rank": "#254,238 in Electronics #312 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -290,6 +293,6 @@
     "customer_review_summary": "",
     "customer_review_aspects": [],
     "top_reviews": [],
-    "scrape_time": "2026-11-14 10:38"
+    "scrape_time": "2026-11-15 00:41"
   }
 }
