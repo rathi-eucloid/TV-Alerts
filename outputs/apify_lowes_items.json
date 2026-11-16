@@ -21,7 +21,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.4,
-    "reviewCount": 876,
+    "reviewCount": 879,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-11-16T02:23:39.668Z",
+    "scrapedAt": "2026-11-16T20:41:37.276Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -427,7 +427,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1400,
+    "reviewCount": 1401,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-11-16T02:23:39.869Z",
+    "scrapedAt": "2026-11-16T20:41:37.628Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -824,7 +824,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1400,
+    "reviewCount": 1401,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1119,7 +1119,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-11-16T02:23:39.477Z",
+    "scrapedAt": "2026-11-16T20:41:37.465Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1221,7 +1221,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 4015,
+    "reviewCount": 4018,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1491,7 +1491,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-11-16T02:23:40.097Z",
+    "scrapedAt": "2026-11-16T20:41:37.854Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": false,
@@ -1818,7 +1818,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-11-16T02:23:40.400Z",
+    "scrapedAt": "2026-11-16T20:41:38.054Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
