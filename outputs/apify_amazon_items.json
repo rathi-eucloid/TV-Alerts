@@ -5,7 +5,7 @@
     "product_url": "https://www.amazon.com/dp/B0F6QLH41D",
     "title": "Samsung QN77S90FAFXZA 77\" 4K TV with a 2 Year Amber Protection Plan (2025)",
     "brand_name": "Samsung",
-    "brand_page_url": "",
+    "brand_page_url": "https://www.amazon.com/stores/Samsung/page/F50AFABA-4CDE-4A95-84D0-CA4C61819FEB?lp_asin=B0F6QLH41D&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
     "breadcrumbs": "Electronics › Television & Video › Televisions › OLED TVs",
     "price": "",
     "price_value": null,
@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#138,846 in Electronics #78 in OLED TVs",
+    "best_sellers_rank": "#139,023 in Electronics #77 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -147,7 +147,7 @@
       }
     ],
     "top_reviews": [],
-    "scrape_time": "2026-11-19 11:47"
+    "scrape_time": "2026-11-20 03:07"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -155,7 +155,7 @@
     "product_url": "https://www.amazon.com/dp/B0H2FFWYDG",
     "title": "Samsung QN43Q7FAAFXZA 43 Inch QLED Q7F 4K Vision AI Smart TV with a HW-LS60D 2.0 Channel Photo Frame Speaker with Dolby Atmos (2025)",
     "brand_name": "Samsung",
-    "brand_page_url": "",
+    "brand_page_url": "https://www.amazon.com/stores/Samsung/page/F50AFABA-4CDE-4A95-84D0-CA4C61819FEB?lp_asin=B0H2FFWYDG&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
     "breadcrumbs": "Electronics › Television & Video › Televisions › QLED TVs",
     "price": "",
     "price_value": null,
@@ -174,7 +174,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#258,154 in Electronics #309 in QLED TVs",
+    "best_sellers_rank": "#257,579 in Electronics #306 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -293,6 +293,6 @@
     "customer_review_summary": "",
     "customer_review_aspects": [],
     "top_reviews": [],
-    "scrape_time": "2026-11-19 11:47"
+    "scrape_time": "2026-11-20 03:07"
   }
 }
