@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-11-19T19:10:15.198Z",
+    "scrapedAt": "2026-11-20T03:44:34.224Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -414,13 +414,13 @@
     "brand": "Samsung",
     "title": "S90F 65-in 2160p (4K) Smart OLED Indoor Flat screen HDTV",
     "url": "https://www.lowes.com/pd/Samsung-Samsung-65in-Class-OLED-4K-QN65S90FAFXZA-Vision-AI-Smart-TV-2025/5016711287",
-    "price": 2499.99,
+    "price": 1499.99,
     "priceMax": null,
     "priceIsRange": false,
-    "listPrice": null,
-    "savingsAmount": null,
-    "savingsPercent": null,
-    "promotionEndsAt": null,
+    "listPrice": 2499.99,
+    "savingsAmount": 1000,
+    "savingsPercent": 40,
+    "promotionEndsAt": "2026-11-22T23:59:59.000Z",
     "priceScope": "SOS",
     "isDealOfTheDay": false,
     "promotions": [],
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-11-19T19:10:14.560Z",
+    "scrapedAt": "2026-11-20T03:44:59.885Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -791,6 +791,408 @@
           {
             "uom": "Cu. Meters",
             "value": "0.246",
+            "system": "Metric"
+          }
+        ]
+      },
+      "netContent": {
+        "uom": "Each",
+        "value": "1"
+      }
+    },
+    "lowesExclusive": false,
+    "energyStar": false,
+    "maxPurchaseQuantity": null
+  },
+  "5016711233": {
+    "productId": "5016711233",
+    "itemNumber": "7213433",
+    "modelNumber": "QN65LS03FAFXZA",
+    "brand": "Samsung",
+    "title": "The Frame - LS03FA 65-in 2160p (4K) Smart QLED Indoor Flat screen HDTV",
+    "url": "https://www.lowes.com/pd/Samsung-Samsung-65in-Class-The-Frame-LS03FA-QLED-4K-Art-Mode-Vision-AI-Smart-TV-2025/5016711233",
+    "price": 1499.99,
+    "priceMax": null,
+    "priceIsRange": false,
+    "listPrice": null,
+    "savingsAmount": null,
+    "savingsPercent": null,
+    "promotionEndsAt": null,
+    "priceScope": "SOS",
+    "isDealOfTheDay": false,
+    "promotions": [
+      "Free Delivery"
+    ],
+    "freeShipping": null,
+    "availabilityMessage": null,
+    "rating": 4.4,
+    "reviewCount": 508,
+    "fulfillment": [
+      {
+        "method": "Parcel",
+        "available": true,
+        "quantity": 18,
+        "onHandQuantity": 18,
+        "leadTimeDays": 6,
+        "storeNumber": "149"
+      },
+      {
+        "method": "Pickup",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "Delivery",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": 0,
+        "leadTimeDays": 0,
+        "storeNumber": null
+      },
+      {
+        "method": "ExpeditedDelivery",
+        "available": false,
+        "quantity": 0,
+        "onHandQuantity": null,
+        "leadTimeDays": null,
+        "storeNumber": null
+      }
+    ],
+    "availableForShipping": true,
+    "availableForPickup": false,
+    "availableForDelivery": false,
+    "pickupStoreNumber": null,
+    "pickupQuantity": 0,
+    "deliveryLeadTimeDays": 0,
+    "storeNumber": "0595",
+    "inStock": true,
+    "imageUrl": "https://mobileimages.lowes.com/productimages/ff01bef5-f609-45af-8e8b-45f3a66c3f66/72096374.jpeg",
+    "images": [
+      "https://mobileimages.lowes.com/productimages/ff01bef5-f609-45af-8e8b-45f3a66c3f66/72096374.jpeg",
+      "https://mobileimages.lowes.com/productimages/3167ec43-2105-473d-9a8e-47f455d49d1e/72096376.jpeg",
+      "https://mobileimages.lowes.com/productimages/2baef41f-ef6e-4c12-971e-ebc430acdb67/72096377.jpeg",
+      "https://mobileimages.lowes.com/productimages/b7186e08-b50f-4c4c-97c4-f7886b76cf3a/98657894.jpeg",
+      "https://mobileimages.lowes.com/productimages/c312dbec-88b5-4044-982b-c585f00e6b74/98635129.jpeg",
+      "https://mobileimages.lowes.com/productimages/95fd6f5d-8cbd-4a69-9ae6-d5059b1c5b9a/98672915.jpeg",
+      "https://mobileimages.lowes.com/productimages/3c9b39c1-627c-4fdf-929a-239626f1473f/98250726.jpeg",
+      "https://mobileimages.lowes.com/productimages/56759925-64f8-495b-82fd-dc1077f32d46/98250725.jpeg",
+      "https://mobileimages.lowes.com/productimages/63fa92f0-dd54-45a9-be3a-6fa13233b397/98250724.jpeg",
+      "https://mobileimages.lowes.com/productimages/7950089b-abdb-4d78-9a9a-d3aa282aa5a7/98250723.jpeg",
+      "https://mobileimages.lowes.com/productimages/9888ae88-1068-4da3-889e-2abbb0912f3b/98250722.jpeg",
+      "https://mobileimages.lowes.com/productimages/3e12dd84-7a7b-4dee-915c-99d0273974aa/98635134.jpeg",
+      "https://mobileimages.lowes.com/productimages/22543b56-47be-4ff8-ad6c-cf9118e77184/98250728.jpeg"
+    ],
+    "bulletPoints": [
+      "A Slim design that mounts flush to the wall with customizable bezels to look just like a real frame.",
+      "Showcases curated art from the Art Store or from your own collection when you're not watching TV",
+      "Mini LEDs enhance contrast and brightness for spectacular picture Plus a matte screen and expert validated colors for museum-worthy art"
+    ],
+    "specifications": [
+      {
+        "key": "Number of USB Ports",
+        "value": "3"
+      },
+      {
+        "key": "Number of Speakers",
+        "value": "2"
+      },
+      {
+        "key": "Backlight Type",
+        "value": "Edge lit"
+      },
+      {
+        "key": "VESA Standard",
+        "value": "400 x 300"
+      },
+      {
+        "key": "Type",
+        "value": "Flat screen HDTV"
+      },
+      {
+        "key": "Display Type",
+        "value": "QLED"
+      },
+      {
+        "key": "Series Name",
+        "value": "The Frame - LS03FA"
+      },
+      {
+        "key": "Color/Finish Family",
+        "value": "Black"
+      },
+      {
+        "key": "Use Location",
+        "value": null
+      },
+      {
+        "key": "Resolution",
+        "value": null
+      },
+      {
+        "key": "Smart Platform",
+        "value": null
+      },
+      {
+        "key": "Actual TV Size (Inches)",
+        "value": "64.5"
+      },
+      {
+        "key": "Common TV Size",
+        "value": "65-in"
+      },
+      {
+        "key": "Actual Height without Stand (Inches)",
+        "value": "32.8"
+      },
+      {
+        "key": "Actual Width without Stand (Inches)",
+        "value": "57.4"
+      },
+      {
+        "key": "Actual Depth without Stand (Inches)",
+        "value": "1"
+      },
+      {
+        "key": "Actual Weight without Stand (lbs.)",
+        "value": "49.4"
+      },
+      {
+        "key": "Actual Height with Stand (Inches)",
+        "value": "34.2"
+      },
+      {
+        "key": "Actual Width with Stand (Inches)",
+        "value": "57.4"
+      },
+      {
+        "key": "Actual Depth with Stand (Inches)",
+        "value": "10.3"
+      },
+      {
+        "key": "Actual Weight with Stand (lbs.)",
+        "value": "50.3"
+      },
+      {
+        "key": "Number of Ethernet Ports",
+        "value": "1"
+      },
+      {
+        "key": "3D",
+        "value": "No"
+      },
+      {
+        "key": "Built-In Speakers",
+        "value": "Yes"
+      },
+      {
+        "key": "Number of HDMI Ports",
+        "value": "4"
+      },
+      {
+        "key": "Component Input",
+        "value": "No"
+      },
+      {
+        "key": "Composite Input",
+        "value": "No"
+      },
+      {
+        "key": "DVI Input",
+        "value": "No"
+      },
+      {
+        "key": "Optical Input",
+        "value": "Yes"
+      },
+      {
+        "key": "Speaker Output (Watts)",
+        "value": "40"
+      },
+      {
+        "key": "Refresh Rate (Hz)",
+        "value": "120"
+      },
+      {
+        "key": "Aspect Ratio",
+        "value": "16:09"
+      },
+      {
+        "key": "High Dynamic Range (HDR)",
+        "value": "Yes"
+      },
+      {
+        "key": "Anti-Glare Screen Coating",
+        "value": "No"
+      },
+      {
+        "key": "Portable",
+        "value": "No"
+      },
+      {
+        "key": "Wall Mountable",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Apple HomeKit",
+        "value": "No"
+      },
+      {
+        "key": "Works with SmartThings",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Amazon Alexa",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with iOS",
+        "value": "No"
+      },
+      {
+        "key": "Works with Android",
+        "value": "Yes"
+      },
+      {
+        "key": "Wi-Fi Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "App Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with the Google Assistant",
+        "value": "Yes"
+      },
+      {
+        "key": "Bluetooth Compatibility",
+        "value": "Yes"
+      },
+      {
+        "key": "Works with Wink",
+        "value": "No"
+      },
+      {
+        "key": "Smart Compatible",
+        "value": "Yes"
+      },
+      {
+        "key": "Warranty",
+        "value": "1-year"
+      },
+      {
+        "key": "CA Residents: Prop 65 Warning(s)",
+        "value": "Yes"
+      },
+      {
+        "key": "ENERGY STAR Certified",
+        "value": "No"
+      },
+      {
+        "key": "Features",
+        "value": null
+      },
+      {
+        "key": "Collection/Series Name",
+        "value": "The Frame - LS03FA"
+      },
+      {
+        "key": "Connectivity",
+        "value": null
+      },
+      {
+        "key": "Operating System Compatibility",
+        "value": null
+      },
+      {
+        "key": "Works With",
+        "value": null
+      },
+      {
+        "key": "UNSPSC",
+        "value": "52161500"
+      }
+    ],
+    "department": "ELECTRICAL",
+    "category": "SOS HOME ENTERTAINMENT",
+    "subCategory": "SOS INDOOR TELEVISIONS",
+    "barcode": "887276999517",
+    "detailLevel": "full",
+    "searchQuery": null,
+    "sourceUrl": null,
+    "position": 5,
+    "scrapedAt": "2026-11-20T03:45:08.582Z",
+    "weight": 77.4,
+    "dimensions": {
+      "depth": {
+        "uom": "Inches",
+        "value": "7.5",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "19.05",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "190.5",
+            "system": "Metric"
+          }
+        ]
+      },
+      "width": {
+        "uom": "Inches",
+        "value": "63.5",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "161.29",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "1612.9",
+            "system": "Metric"
+          }
+        ]
+      },
+      "height": {
+        "uom": "Inches",
+        "value": "37.4",
+        "conversions": [
+          {
+            "uom": "Centimeters",
+            "value": "94.996",
+            "system": "Metric"
+          },
+          {
+            "uom": "Millimeters",
+            "value": "949.96",
+            "system": "Metric"
+          }
+        ]
+      },
+      "grossWeight": {
+        "uom": "lbs.",
+        "value": "77.4",
+        "conversions": [
+          {
+            "uom": "Kilograms",
+            "value": "35.1086",
+            "system": "Metric"
+          }
+        ]
+      },
+      "cube": {
+        "uom": "Cu. Feet",
+        "value": "10.307726",
+        "conversions": [
+          {
+            "uom": "Cu. Meters",
+            "value": "0.2919",
             "system": "Metric"
           }
         ]
@@ -1118,8 +1520,8 @@
     "detailLevel": "full",
     "searchQuery": null,
     "sourceUrl": null,
-    "position": 3,
-    "scrapedAt": "2026-11-19T19:10:14.736Z",
+    "position": 1,
+    "scrapedAt": "2026-11-20T03:47:07.717Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1490,412 +1892,10 @@
     "detailLevel": "full",
     "searchQuery": null,
     "sourceUrl": null,
-    "position": 4,
-    "scrapedAt": "2026-11-19T19:10:15.504Z",
+    "position": 2,
+    "scrapedAt": "2026-11-20T03:47:06.929Z",
     "weight": null,
     "dimensions": null,
-    "lowesExclusive": false,
-    "energyStar": false,
-    "maxPurchaseQuantity": null
-  },
-  "5016711233": {
-    "productId": "5016711233",
-    "itemNumber": "7213433",
-    "modelNumber": "QN65LS03FAFXZA",
-    "brand": "Samsung",
-    "title": "The Frame - LS03FA 65-in 2160p (4K) Smart QLED Indoor Flat screen HDTV",
-    "url": "https://www.lowes.com/pd/Samsung-Samsung-65in-Class-The-Frame-LS03FA-QLED-4K-Art-Mode-Vision-AI-Smart-TV-2025/5016711233",
-    "price": 1499.99,
-    "priceMax": null,
-    "priceIsRange": false,
-    "listPrice": null,
-    "savingsAmount": null,
-    "savingsPercent": null,
-    "promotionEndsAt": null,
-    "priceScope": "SOS",
-    "isDealOfTheDay": false,
-    "promotions": [
-      "Free Delivery"
-    ],
-    "freeShipping": null,
-    "availabilityMessage": null,
-    "rating": 4.4,
-    "reviewCount": 508,
-    "fulfillment": [
-      {
-        "method": "Parcel",
-        "available": true,
-        "quantity": 18,
-        "onHandQuantity": 18,
-        "leadTimeDays": 6,
-        "storeNumber": "149"
-      },
-      {
-        "method": "Pickup",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "Delivery",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": 0,
-        "leadTimeDays": 0,
-        "storeNumber": null
-      },
-      {
-        "method": "ExpeditedDelivery",
-        "available": false,
-        "quantity": 0,
-        "onHandQuantity": null,
-        "leadTimeDays": null,
-        "storeNumber": null
-      }
-    ],
-    "availableForShipping": true,
-    "availableForPickup": false,
-    "availableForDelivery": false,
-    "pickupStoreNumber": null,
-    "pickupQuantity": 0,
-    "deliveryLeadTimeDays": 0,
-    "storeNumber": "0595",
-    "inStock": true,
-    "imageUrl": "https://mobileimages.lowes.com/productimages/ff01bef5-f609-45af-8e8b-45f3a66c3f66/72096374.jpeg",
-    "images": [
-      "https://mobileimages.lowes.com/productimages/ff01bef5-f609-45af-8e8b-45f3a66c3f66/72096374.jpeg",
-      "https://mobileimages.lowes.com/productimages/3167ec43-2105-473d-9a8e-47f455d49d1e/72096376.jpeg",
-      "https://mobileimages.lowes.com/productimages/2baef41f-ef6e-4c12-971e-ebc430acdb67/72096377.jpeg",
-      "https://mobileimages.lowes.com/productimages/b7186e08-b50f-4c4c-97c4-f7886b76cf3a/98657894.jpeg",
-      "https://mobileimages.lowes.com/productimages/c312dbec-88b5-4044-982b-c585f00e6b74/98635129.jpeg",
-      "https://mobileimages.lowes.com/productimages/95fd6f5d-8cbd-4a69-9ae6-d5059b1c5b9a/98672915.jpeg",
-      "https://mobileimages.lowes.com/productimages/3c9b39c1-627c-4fdf-929a-239626f1473f/98250726.jpeg",
-      "https://mobileimages.lowes.com/productimages/56759925-64f8-495b-82fd-dc1077f32d46/98250725.jpeg",
-      "https://mobileimages.lowes.com/productimages/63fa92f0-dd54-45a9-be3a-6fa13233b397/98250724.jpeg",
-      "https://mobileimages.lowes.com/productimages/7950089b-abdb-4d78-9a9a-d3aa282aa5a7/98250723.jpeg",
-      "https://mobileimages.lowes.com/productimages/9888ae88-1068-4da3-889e-2abbb0912f3b/98250722.jpeg",
-      "https://mobileimages.lowes.com/productimages/3e12dd84-7a7b-4dee-915c-99d0273974aa/98635134.jpeg",
-      "https://mobileimages.lowes.com/productimages/22543b56-47be-4ff8-ad6c-cf9118e77184/98250728.jpeg"
-    ],
-    "bulletPoints": [
-      "A Slim design that mounts flush to the wall with customizable bezels to look just like a real frame.",
-      "Showcases curated art from the Art Store or from your own collection when you're not watching TV",
-      "Mini LEDs enhance contrast and brightness for spectacular picture Plus a matte screen and expert validated colors for museum-worthy art"
-    ],
-    "specifications": [
-      {
-        "key": "Number of USB Ports",
-        "value": "3"
-      },
-      {
-        "key": "Number of Speakers",
-        "value": "2"
-      },
-      {
-        "key": "Backlight Type",
-        "value": "Edge lit"
-      },
-      {
-        "key": "VESA Standard",
-        "value": "400 x 300"
-      },
-      {
-        "key": "Type",
-        "value": "Flat screen HDTV"
-      },
-      {
-        "key": "Display Type",
-        "value": "QLED"
-      },
-      {
-        "key": "Series Name",
-        "value": "The Frame - LS03FA"
-      },
-      {
-        "key": "Color/Finish Family",
-        "value": "Black"
-      },
-      {
-        "key": "Use Location",
-        "value": null
-      },
-      {
-        "key": "Resolution",
-        "value": null
-      },
-      {
-        "key": "Smart Platform",
-        "value": null
-      },
-      {
-        "key": "Actual TV Size (Inches)",
-        "value": "64.5"
-      },
-      {
-        "key": "Common TV Size",
-        "value": "65-in"
-      },
-      {
-        "key": "Actual Height without Stand (Inches)",
-        "value": "32.8"
-      },
-      {
-        "key": "Actual Width without Stand (Inches)",
-        "value": "57.4"
-      },
-      {
-        "key": "Actual Depth without Stand (Inches)",
-        "value": "1"
-      },
-      {
-        "key": "Actual Weight without Stand (lbs.)",
-        "value": "49.4"
-      },
-      {
-        "key": "Actual Height with Stand (Inches)",
-        "value": "34.2"
-      },
-      {
-        "key": "Actual Width with Stand (Inches)",
-        "value": "57.4"
-      },
-      {
-        "key": "Actual Depth with Stand (Inches)",
-        "value": "10.3"
-      },
-      {
-        "key": "Actual Weight with Stand (lbs.)",
-        "value": "50.3"
-      },
-      {
-        "key": "Number of Ethernet Ports",
-        "value": "1"
-      },
-      {
-        "key": "3D",
-        "value": "No"
-      },
-      {
-        "key": "Built-In Speakers",
-        "value": "Yes"
-      },
-      {
-        "key": "Number of HDMI Ports",
-        "value": "4"
-      },
-      {
-        "key": "Component Input",
-        "value": "No"
-      },
-      {
-        "key": "Composite Input",
-        "value": "No"
-      },
-      {
-        "key": "DVI Input",
-        "value": "No"
-      },
-      {
-        "key": "Optical Input",
-        "value": "Yes"
-      },
-      {
-        "key": "Speaker Output (Watts)",
-        "value": "40"
-      },
-      {
-        "key": "Refresh Rate (Hz)",
-        "value": "120"
-      },
-      {
-        "key": "Aspect Ratio",
-        "value": "16:09"
-      },
-      {
-        "key": "High Dynamic Range (HDR)",
-        "value": "Yes"
-      },
-      {
-        "key": "Anti-Glare Screen Coating",
-        "value": "No"
-      },
-      {
-        "key": "Portable",
-        "value": "No"
-      },
-      {
-        "key": "Wall Mountable",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Apple HomeKit",
-        "value": "No"
-      },
-      {
-        "key": "Works with SmartThings",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Amazon Alexa",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with iOS",
-        "value": "No"
-      },
-      {
-        "key": "Works with Android",
-        "value": "Yes"
-      },
-      {
-        "key": "Wi-Fi Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "App Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with the Google Assistant",
-        "value": "Yes"
-      },
-      {
-        "key": "Bluetooth Compatibility",
-        "value": "Yes"
-      },
-      {
-        "key": "Works with Wink",
-        "value": "No"
-      },
-      {
-        "key": "Smart Compatible",
-        "value": "Yes"
-      },
-      {
-        "key": "Warranty",
-        "value": "1-year"
-      },
-      {
-        "key": "CA Residents: Prop 65 Warning(s)",
-        "value": "Yes"
-      },
-      {
-        "key": "ENERGY STAR Certified",
-        "value": "No"
-      },
-      {
-        "key": "Features",
-        "value": null
-      },
-      {
-        "key": "Collection/Series Name",
-        "value": "The Frame - LS03FA"
-      },
-      {
-        "key": "Connectivity",
-        "value": null
-      },
-      {
-        "key": "Operating System Compatibility",
-        "value": null
-      },
-      {
-        "key": "Works With",
-        "value": null
-      },
-      {
-        "key": "UNSPSC",
-        "value": "52161500"
-      }
-    ],
-    "department": "ELECTRICAL",
-    "category": "SOS HOME ENTERTAINMENT",
-    "subCategory": "SOS INDOOR TELEVISIONS",
-    "barcode": "887276999517",
-    "detailLevel": "full",
-    "searchQuery": null,
-    "sourceUrl": null,
-    "position": 5,
-    "scrapedAt": "2026-11-19T19:10:15.738Z",
-    "weight": 77.4,
-    "dimensions": {
-      "depth": {
-        "uom": "Inches",
-        "value": "7.5",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "19.05",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "190.5",
-            "system": "Metric"
-          }
-        ]
-      },
-      "width": {
-        "uom": "Inches",
-        "value": "63.5",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "161.29",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "1612.9",
-            "system": "Metric"
-          }
-        ]
-      },
-      "height": {
-        "uom": "Inches",
-        "value": "37.4",
-        "conversions": [
-          {
-            "uom": "Centimeters",
-            "value": "94.996",
-            "system": "Metric"
-          },
-          {
-            "uom": "Millimeters",
-            "value": "949.96",
-            "system": "Metric"
-          }
-        ]
-      },
-      "grossWeight": {
-        "uom": "lbs.",
-        "value": "77.4",
-        "conversions": [
-          {
-            "uom": "Kilograms",
-            "value": "35.1086",
-            "system": "Metric"
-          }
-        ]
-      },
-      "cube": {
-        "uom": "Cu. Feet",
-        "value": "10.307726",
-        "conversions": [
-          {
-            "uom": "Cu. Meters",
-            "value": "0.2919",
-            "system": "Metric"
-          }
-        ]
-      },
-      "netContent": {
-        "uom": "Each",
-        "value": "1"
-      }
-    },
     "lowesExclusive": false,
     "energyStar": false,
     "maxPurchaseQuantity": null
