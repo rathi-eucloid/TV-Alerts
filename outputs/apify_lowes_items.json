@@ -6,13 +6,13 @@
     "brand": "Samsung",
     "title": "M70H 43-in 2160p (4K) Smart LED Indoor Flat screen HDTV",
     "url": "https://www.lowes.com/pd/Samsung-M70H-43-in-2160p-4K-Smart-LED-Indoor-use-only-Flat-screen-HDTV/5021390329",
-    "price": 349.99,
+    "price": 249.99,
     "priceMax": null,
     "priceIsRange": false,
-    "listPrice": null,
-    "savingsAmount": null,
-    "savingsPercent": null,
-    "promotionEndsAt": null,
+    "listPrice": 349.99,
+    "savingsAmount": 100,
+    "savingsPercent": 28,
+    "promotionEndsAt": "2026-11-29T23:59:59.000Z",
     "priceScope": "SOS",
     "isDealOfTheDay": false,
     "promotions": [
@@ -21,7 +21,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.4,
-    "reviewCount": 969,
+    "reviewCount": 980,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-11-23T03:04:13.430Z",
+    "scrapedAt": "2026-11-23T22:14:13.675Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -420,14 +420,14 @@
     "listPrice": 2499.99,
     "savingsAmount": 1000,
     "savingsPercent": 40,
-    "promotionEndsAt": "2026-11-22T23:59:59.000Z",
+    "promotionEndsAt": "2026-11-29T23:59:59.000Z",
     "priceScope": "SOS",
     "isDealOfTheDay": false,
     "promotions": [],
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1437,
+    "reviewCount": 1439,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-11-23T03:04:13.230Z",
+    "scrapedAt": "2026-11-23T22:14:13.007Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -824,7 +824,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1437,
+    "reviewCount": 1439,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1119,7 +1119,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-11-23T03:04:12.762Z",
+    "scrapedAt": "2026-11-23T22:14:13.327Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1221,7 +1221,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 4133,
+    "reviewCount": 4138,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1491,7 +1491,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-11-23T03:04:13.603Z",
+    "scrapedAt": "2026-11-23T22:14:13.997Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": false,
@@ -1520,14 +1520,14 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 516,
+    "reviewCount": 518,
     "fulfillment": [
       {
         "method": "Parcel",
         "available": true,
-        "quantity": 9,
-        "onHandQuantity": 9,
-        "leadTimeDays": 7,
+        "quantity": 8,
+        "onHandQuantity": 8,
+        "leadTimeDays": 6,
         "storeNumber": "149"
       },
       {
@@ -1818,7 +1818,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-11-23T03:04:13.742Z",
+    "scrapedAt": "2026-11-23T22:14:14.258Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
