@@ -21,7 +21,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.4,
-    "reviewCount": 980,
+    "reviewCount": 983,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-11-24T20:50:27.952Z",
+    "scrapedAt": "2026-11-25T05:01:53.443Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -427,7 +427,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1439,
+    "reviewCount": 1440,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-11-24T20:50:28.108Z",
+    "scrapedAt": "2026-11-25T05:01:53.188Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -824,7 +824,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.7,
-    "reviewCount": 1439,
+    "reviewCount": 1440,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1119,7 +1119,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-11-24T20:50:28.319Z",
+    "scrapedAt": "2026-11-25T05:01:53.645Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1221,7 +1221,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.6,
-    "reviewCount": 4138,
+    "reviewCount": 4139,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1491,7 +1491,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-11-24T20:50:28.508Z",
+    "scrapedAt": "2026-11-25T05:01:53.859Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": false,
@@ -1520,7 +1520,7 @@
     "freeShipping": null,
     "availabilityMessage": null,
     "rating": 4.5,
-    "reviewCount": 518,
+    "reviewCount": 519,
     "fulfillment": [
       {
         "method": "Parcel",
@@ -1818,7 +1818,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-11-24T20:50:28.719Z",
+    "scrapedAt": "2026-11-25T05:01:54.023Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
