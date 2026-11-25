@@ -24,7 +24,7 @@
       "2star": "0%",
       "1star": "4%"
     },
-    "best_sellers_rank": "#155,875 in Electronics #77 in OLED TVs",
+    "best_sellers_rank": "#141,932 in Electronics #68 in OLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -53,16 +53,20 @@
         "title": "Samsung S90F Series TV Product Review",
         "duration_seconds": 84,
         "url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2290d709-4c9d-4430-a8aa-f83a885eb609/default.jobtemplate.hls.m3u8",
+        "video_page_url": "https://www.amazon.com/vdp/033ccfed68644385a34755e65e61ba93",
         "thumbnail": "https://m.media-amazon.com/images/I/51EtkHXoKkL.jpg",
         "creator": "Walts TV",
+        "creator_store_url": "",
         "creator_type": "Seller"
       },
       {
         "title": "The BREATHTAKING TV THAT EVERYONE SHOULD HAVE!!",
         "duration_seconds": 61,
         "url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9d68d7aa-90a3-4981-9b9f-26df10bce5bb/default.vertical.jobtemplate.hls.m3u8",
+        "video_page_url": "https://www.amazon.com/vdp/0702b0a331034e7992677e24710346ca",
         "thumbnail": "https://m.media-amazon.com/images/I/61h5KkZZc6L.jpg",
         "creator": "Lover of Christ",
+        "creator_store_url": "https://www.amazon.com/shop/walkingwithchrist4",
         "creator_type": "Influencer"
       }
     ],
@@ -147,7 +151,7 @@
       }
     ],
     "top_reviews": [],
-    "scrape_time": "2026-11-25 12:59"
+    "scrape_time": "2026-11-26 04:04"
   },
   "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback": {
     "search_source": "https://www.amazon.com/dp/B0H2FFWYDG?lv=shuf&channelId=500&plpRedirect=mhFallback",
@@ -174,7 +178,7 @@
       "2star": "0%",
       "1star": "0%"
     },
-    "best_sellers_rank": "#267,586 in Electronics #328 in QLED TVs",
+    "best_sellers_rank": "#262,524 in Electronics #328 in QLED TVs",
     "recent_purchases": "",
     "badge": "",
     "default_variant": [],
@@ -203,16 +207,20 @@
         "title": "Samsung Q7F Series TV Product Review",
         "duration_seconds": 30,
         "url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bdf82c5f-fdf9-4666-9a38-969de5434b9a/default.jobtemplate.hls.m3u8",
+        "video_page_url": "https://www.amazon.com/vdp/077dc6347b264fa292572db3c142d720",
         "thumbnail": "https://m.media-amazon.com/images/I/61FxsH7apSL.SX522_.jpg",
         "creator": "",
+        "creator_store_url": "",
         "creator_type": "Seller"
       },
       {
         "title": "My honest opinion about this Samsung TV.",
         "duration_seconds": 58,
         "url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba483df6-5b7d-4790-a11a-6f774b143958/default.jobtemplate.hls.m3u8",
+        "video_page_url": "https://www.amazon.com/vdp/08432709721844b8b1d2e7431eeb28ab",
         "thumbnail": "https://m.media-amazon.com/images/I/81K8dot3zpL.jpg",
         "creator": "Radostina Krasteva",
+        "creator_store_url": "https://www.amazon.com/shop/radostinakrasteva3",
         "creator_type": "Influencer"
       }
     ],
@@ -293,6 +301,6 @@
     "customer_review_summary": "",
     "customer_review_aspects": [],
     "top_reviews": [],
-    "scrape_time": "2026-11-25 12:59"
+    "scrape_time": "2026-11-26 04:04"
   }
 }
