@@ -325,7 +325,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 1,
-    "scrapedAt": "2026-11-26T19:48:49.270Z",
+    "scrapedAt": "2026-11-27T04:29:50.272Z",
     "weight": 22,
     "dimensions": {
       "depth": {
@@ -722,7 +722,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 2,
-    "scrapedAt": "2026-11-26T19:48:48.341Z",
+    "scrapedAt": "2026-11-27T04:29:50.062Z",
     "weight": 65.9,
     "dimensions": {
       "depth": {
@@ -1119,7 +1119,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 3,
-    "scrapedAt": "2026-11-26T19:48:48.903Z",
+    "scrapedAt": "2026-11-27T04:29:49.820Z",
     "weight": 103.2,
     "dimensions": {
       "depth": {
@@ -1491,7 +1491,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 4,
-    "scrapedAt": "2026-11-26T19:48:49.511Z",
+    "scrapedAt": "2026-11-27T04:29:50.565Z",
     "weight": null,
     "dimensions": null,
     "lowesExclusive": false,
@@ -1525,8 +1525,8 @@
       {
         "method": "Parcel",
         "available": true,
-        "quantity": 9,
-        "onHandQuantity": 9,
+        "quantity": 6,
+        "onHandQuantity": 6,
         "leadTimeDays": 6,
         "storeNumber": "149"
       },
@@ -1818,7 +1818,7 @@
     "searchQuery": null,
     "sourceUrl": null,
     "position": 5,
-    "scrapedAt": "2026-11-26T19:48:49.907Z",
+    "scrapedAt": "2026-11-27T04:29:50.930Z",
     "weight": 77.4,
     "dimensions": {
       "depth": {
